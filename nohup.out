@@ -494,3 +494,15 @@
 [I 07:38:10.992 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:b2d183fd2f2549318c52103d0a694be6
 [I 07:38:12.345 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:4090f08c64314f3f8a9a7c11715077a8
 [I 07:38:12.966 NotebookApp] Starting buffering for 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b:382a72d4d7a44d68b2bbd8c0cc7d9aeb
+[I 07:52:32.988 NotebookApp] Kernel shutdown: 6b2f0cd4-4d86-4b2b-b60c-4ea6be268ceb
+[W 07:52:32.990 NotebookApp] delete /reinforcementLearning/reference/Untitled.ipynb
+[W 07:52:32.991 NotebookApp] Skipping trash for /undergraduateGroup/reinforcementLearning/reference/Untitled.ipynb, on different device to home directory
+[I 07:52:37.842 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 07:52:39.533 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 07:52:41.427 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.70ms
+[I 07:52:41.427 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.56ms
+[I 07:52:41.469 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.03ms
+[I 07:52:41.521 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 07:52:53.331 NotebookApp] Saving file at /content.ipynb
+[I 07:52:54.314 NotebookApp] Saving file at /content.ipynb
+[I 07:52:56.289 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:fefe01d8489d4eb8a2fd92c61f11c4ac
