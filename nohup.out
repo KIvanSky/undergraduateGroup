@@ -481,3 +481,6 @@
 [I 07:25:24.444 NotebookApp] Adapting to protocol v5.1 for kernel 54653dea-f42d-46c4-88e8-f46c9b01cbdc
 [I 07:25:29.744 NotebookApp] Saving file at /reinforcementLearning/reference/Untitled.ipynb
 [I 07:25:34.148 NotebookApp] Starting buffering for 54653dea-f42d-46c4-88e8-f46c9b01cbdc:a45ef519ed8740869bd2c8135708fc52
+[I 07:27:06.537 NotebookApp] Kernel shutdown: 54653dea-f42d-46c4-88e8-f46c9b01cbdc
+[W 07:27:06.539 NotebookApp] delete /reinforcementLearning/reference/Untitled.ipynb
+[W 07:27:06.539 NotebookApp] Skipping trash for /undergraduateGroup/reinforcementLearning/reference/Untitled.ipynb, on different device to home directory
