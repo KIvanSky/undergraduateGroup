@@ -1,0 +1,460 @@
+[I 04:23:57.623 NotebookApp] Serving notebooks from local directory: /undergraduateGroup
+[I 04:23:57.623 NotebookApp] The Jupyter Notebook is running at:
+[I 04:23:57.624 NotebookApp] http://(9c6341a8d1a3 or 127.0.0.1):8888/
+[I 04:23:57.624 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:23:57.627 NotebookApp] No web browser found: could not locate runnable browser.
+[W 04:24:03.842 NotebookApp] Clearing invalid/expired login cookie username-10-241-67-12-8888
+[W 04:24:03.842 NotebookApp] Couldn't authenticate WebSocket connection
+[W 04:24:03.843 NotebookApp] Clearing invalid/expired login cookie username-10-241-67-12-8888
+[W 04:24:03.844 NotebookApp] Clearing invalid/expired login cookie username-10-241-67-12-8888
+[W 04:24:03.866 NotebookApp] 403 GET /api/kernels/161d5cb6-18fc-4e61-b367-290068d63cb3/channels?session_id=751a30410efe426fac869866072e74f1 (10.241.166.107) 25.29ms referer=None
+[W 04:24:10.266 NotebookApp] Clearing invalid/expired login cookie username-10-241-67-12-8888
+[W 04:24:10.267 NotebookApp] Clearing invalid/expired login cookie username-10-241-67-12-8888
+[I 04:24:10.267 NotebookApp] 302 GET /notebooks/Untitled.ipynb?kernel_name=python3 (10.241.166.107) 1.80ms
+[W 04:24:10.269 NotebookApp] Clearing invalid/expired login cookie username-10-241-67-12-8888
+[W 04:24:10.269 NotebookApp] Forbidden
+[W 04:24:10.269 NotebookApp] 403 GET /api/contents/Untitled.ipynb?content=0&_=1557807759732 (10.241.166.107) 1.05ms referer=http://10.241.67.12:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 04:24:10.334 NotebookApp] Forbidden
+[W 04:24:10.335 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.241.166.107) 0.97ms referer=http://10.241.67.12:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 04:24:13.001 NotebookApp] 302 POST /login?next=%2Fnotebooks%2FUntitled.ipynb%3Fkernel_name%3Dpython3 (10.241.166.107) 1.26ms
+[I 04:24:13.745 NotebookApp] Kernel started: 119545e4-1866-4b52-bbfc-edfb4d11bff7
+[I 04:24:14.267 NotebookApp] Adapting to protocol v5.1 for kernel 119545e4-1866-4b52-bbfc-edfb4d11bff7
+[I 04:24:20.474 NotebookApp] Starting buffering for 119545e4-1866-4b52-bbfc-edfb4d11bff7:506c74e1f706435a8cd3e512a2c69a04
+[I 04:24:27.608 NotebookApp] Kernel shutdown: 119545e4-1866-4b52-bbfc-edfb4d11bff7
+[W 04:24:27.611 NotebookApp] delete /Untitled.ipynb
+[W 04:24:27.612 NotebookApp] Skipping trash for /undergraduateGroup/Untitled.ipynb, on different device to home directory
+[I 04:24:39.086 NotebookApp] Creating new directory in 
+[I 04:24:43.174 NotebookApp] Creating new directory in 
+[I 04:24:45.244 NotebookApp] Creating new directory in 
+[I 04:26:15.863 NotebookApp] Creating new directory in 
+[I 04:26:56.244 NotebookApp] Creating new notebook in 
+[I 04:26:56.809 NotebookApp] Kernel started: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 04:26:57.393 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 04:28:57.271 NotebookApp] Saving file at /content.ipynb
+[I 04:29:43.838 NotebookApp] Creating new notebook in /reinforcementLearning
+[I 04:29:44.448 NotebookApp] Kernel started: 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 04:29:44.921 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 04:30:45.787 NotebookApp] Creating new directory in /reinforcementLearning
+[I 04:30:47.588 NotebookApp] Creating new directory in /reinforcementLearning
+[I 04:30:49.160 NotebookApp] Creating new directory in /reinforcementLearning
+[I 04:30:57.281 NotebookApp] Saving file at /content.ipynb
+[I 04:31:44.613 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:32:56.083 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:32:57.270 NotebookApp] Saving file at /content.ipynb
+[I 04:32:59.226 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:33:00.180 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:33:01.714 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:2b8503a70537443a9e6b322b3429fa25
+[I 04:33:16.449 NotebookApp] Creating new notebook in /pythonPractice
+[I 04:33:17.075 NotebookApp] Kernel started: ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 04:33:17.535 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 04:33:22.265 NotebookApp] Creating new directory in /pythonPractice
+[I 04:33:24.019 NotebookApp] Creating new directory in /pythonPractice
+[I 04:33:25.715 NotebookApp] Creating new directory in /pythonPractice
+[I 04:33:29.409 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 04:34:18.970 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 04:35:16.615 NotebookApp] Creating new notebook in /gameTheory
+[I 04:35:17.205 NotebookApp] Kernel started: d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[W 04:35:17.221 NotebookApp] 404 GET /api/contents/pythonPractice/Untitled.ipynb?content=0&_=1557808396824 (10.241.166.107): No such file or directory: pythonPractice/Untitled.ipynb
+[W 04:35:17.222 NotebookApp] No such file or directory: pythonPractice/Untitled.ipynb
+[W 04:35:17.222 NotebookApp] 404 GET /api/contents/pythonPractice/Untitled.ipynb?content=0&_=1557808396824 (10.241.166.107) 1.11ms referer=http://10.241.67.12:8888/notebooks/pythonPractice/Untitled.ipynb?kernel_name=python3
+[I 04:35:17.275 NotebookApp] Uploading file to /pythonPractice/Untitled.ipynb
+[I 04:35:17.697 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 04:35:21.364 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:0c4a0ff8049f46f79a7a02d8409c93f1
+[I 04:35:23.753 NotebookApp] Creating new directory in /gameTheory
+[I 04:35:25.301 NotebookApp] Creating new directory in /gameTheory
+[I 04:35:26.975 NotebookApp] Creating new directory in /gameTheory
+[I 04:35:29.706 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 04:35:30.284 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 04:36:19.277 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:36:26.975 NotebookApp] Saving file at /gameTheory/content.ipynb
+[I 04:36:28.606 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:4df719b6a0eb4c4c891aa84628d779cf
+[I 04:37:22.074 NotebookApp] Creating new notebook in /wirelessNetwork
+[I 04:37:22.652 NotebookApp] Kernel started: 19130b68-6063-4c49-820f-90ecea68130e
+[I 04:37:23.112 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 04:38:09.179 NotebookApp] Creating new directory in /wirelessNetwork
+[I 04:38:11.511 NotebookApp] Creating new directory in /wirelessNetwork
+[I 04:38:13.240 NotebookApp] Creating new directory in /wirelessNetwork
+[I 04:38:17.301 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 04:38:21.738 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 04:38:50.065 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 04:38:50.536 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[W 04:38:51.961 NotebookApp] 404 GET /tree/wirelessNetwork/reference (10.241.166.107) 5.75ms referer=http://10.241.67.12:8888/notebooks/wirelessNetwork/content.ipynb
+[I 04:39:06.343 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 04:39:07.968 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 04:39:08.093 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 04:39:08.487 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 04:39:10.031 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:3e30c20653684d40842923272620adad
+[I 04:40:07.741 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:40:10.780 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:40:10.878 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:40:11.202 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 04:40:13.273 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:7a96cd8b8f3144e7836959c20cebfea2
+[I 04:40:37.743 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 04:40:57.275 NotebookApp] Saving file at /content.ipynb
+[I 04:41:02.581 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:477c4de5f1b9438dbb9efd8b3c9a6fce
+[I 04:41:03.965 NotebookApp] 302 GET /tree/gameTheory/content.ipynb (10.241.166.107) 0.94ms
+[I 04:41:04.707 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 04:41:19.796 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:587365261e62477c8593cadb993cbdee
+[I 04:41:21.293 NotebookApp] 302 GET /tree/wirelessNetwork/content.ipynb (10.241.166.107) 0.96ms
+[I 04:41:21.991 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 04:41:32.537 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:6500e5b9270442018c20b0c944dcd88e
+[I 04:42:57.279 NotebookApp] Saving file at /content.ipynb
+[I 04:43:29.382 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 04:45:29.399 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 04:47:29.430 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 04:49:30.413 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 04:49:49.333 NotebookApp] Creating new directory in /pythonPractice
+[I 04:49:51.084 NotebookApp] Creating new directory in /pythonPractice
+[I 04:49:52.772 NotebookApp] Creating new directory in /pythonPractice
+[I 04:49:54.541 NotebookApp] New terminal with automatic name: 1
+[I 04:49:59.186 NotebookApp] Creating new directory in /pythonPractice
+[I 04:50:01.048 NotebookApp] Creating new directory in /pythonPractice
+[I 04:50:02.459 NotebookApp] Creating new directory in /pythonPractice
+[I 04:51:04.042 NotebookApp] Creating new directory in /pythonPractice
+[W 04:51:17.981 NotebookApp] delete /pythonPractice/Untitled.ipynb
+[W 04:51:17.982 NotebookApp] Skipping trash for /undergraduateGroup/pythonPractice/Untitled.ipynb, on different device to home directory
+[I 04:51:24.442 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (10.241.166.107) 1.07ms
+[I 04:51:25.209 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[W 04:51:52.544 NotebookApp] 404 GET /tree/pythonPractice/lxf (10.241.166.107) 2.05ms referer=http://10.241.67.12:8888/notebooks/pythonPractice/content.ipynb
+[I 04:52:34.321 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 04:52:40.288 NotebookApp] Saving file at /content.ipynb
+[I 04:52:41.906 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:6ee80fd033604ee3bd04bdb9a655fe75
+[I 04:52:43.786 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:23194db3db1d49a683b721850581d52c
+[I 04:52:48.750 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 04:52:54.039 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:d620c5ba39aa4f0c9f7696a55b113f70
+[I 04:52:58.388 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:01:00.492 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:01:06.157 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:143e21aa43aa4fad92ca5f0dc1bf29c8
+[I 05:01:11.263 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (10.241.166.107) 1.00ms
+[I 05:01:11.928 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:01:43.007 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:01:58.957 NotebookApp] Saving file at /content.ipynb
+[I 05:06:29.762 NotebookApp] 302 GET / (111.186.116.227) 0.50ms
+[I 05:06:29.825 NotebookApp] 302 GET /tree? (111.186.116.227) 0.67ms
+[I 05:06:32.963 NotebookApp] 302 POST /login?next=%2Ftree%3F (111.186.116.227) 1.15ms
+[I 05:07:15.892 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:07:23.296 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:07:36.361 NotebookApp] 302 GET /notebooks/content.ipynb (101.227.139.178) 0.70ms
+[I 05:08:31.704 NotebookApp] 302 GET /notebooks/content.ipynb (111.186.116.227) 0.80ms
+[I 05:08:35.163 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fcontent.ipynb (111.186.116.227) 1.14ms
+[I 05:08:36.131 NotebookApp] 302 GET /notebooks/content.ipynb (101.89.239.230) 0.78ms
+[I 05:08:39.362 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[W 05:08:57.645 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.47ms referer=None
+[I 05:09:29.850 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:09:31.903 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:09:34.819 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:321e24a7b58146df861b1e355eae7036
+[I 05:09:36.881 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (10.241.166.107) 1.06ms
+[I 05:09:38.031 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:10:01.233 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:10:01.811 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=ggofLjrNgSdj39eGF6f7UlQMLqgvIssmcmnw8WOBOGNC2FRHSlRoeWFwg1HrXtJbSwyqHhW8ECiNd4kjs82FQMcNLhaDLzCE3U0j2Fg2pazHU2FkKctLopRkDmksS8n6RFfIgoYcFZTvNw4BKVFGlzPJgrsAHcqu0NH7MgZpllkyzzRG7fEDT9qQHnKg8b8bfC2F0DM6Yqp7lRjsKl5iwyFz2FFA3D3D (183.3.255.32) 0.80ms
+[I 05:10:20.707 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:10:26.061 NotebookApp] 302 GET /notebooks/content.ipynb (49.52.97.50) 0.63ms
+[I 05:10:34.763 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fcontent.ipynb (49.52.97.50) 1.09ms
+[I 05:10:50.502 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[W 05:11:12.699 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190514042357 (49.52.97.50) 1.58ms referer=http://120.79.65.52:8888/notebooks/content.ipynb
+[I 05:11:13.322 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[W 05:11:41.929 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 05:11:43.010 NotebookApp] WebSocket ping timeout after 119943 ms.
+[I 05:11:46.932 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:1cf6774b5f1c4628856bbee29a236d95
+[W 05:11:58.392 NotebookApp] WebSocket ping timeout after 119945 ms.
+[I 05:12:01.300 NotebookApp] 302 GET / (111.186.116.227) 0.51ms
+[I 05:12:42.117 NotebookApp] Saving file at /content.ipynb
+[I 05:12:44.767 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.49ms
+[I 05:12:45.536 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:13:28.179 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 05:13:30.367 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:ada3b35703e5434497521fee69ef00b8
+[I 05:13:32.256 NotebookApp] 302 GET /tree/wirelessNetwork/content.ipynb (111.186.116.227) 0.98ms
+[I 05:13:33.029 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 05:13:49.265 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 05:13:49.687 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:13:55.838 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:0e593c98a0094cdb9852697011c24bfb
+[I 05:13:57.606 NotebookApp] 302 GET /tree/gameTheory/content.ipynb (111.186.116.227) 1.07ms
+[I 05:13:58.342 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 05:14:15.341 NotebookApp] Saving file at /gameTheory/content.ipynb
+[I 05:14:16.690 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:8641406159e3406788f140fbb2569fca
+[I 05:14:19.745 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:14:34.703 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 05:14:36.146 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:1076de17198b4d948ccde0793720e209
+[I 05:14:49.395 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:14:51.513 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:15:02.820 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:76ae6543ac0b4be2ade205cb1b194963
+[I 05:15:04.341 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.38ms
+[I 05:15:05.056 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:15:09.643 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:a579b71eabc542fc8dcbce94ecaebc0a
+[I 05:15:21.357 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:15:57.952 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (49.52.97.50) 1.11ms
+[I 05:15:58.684 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:16:45.630 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:17:14.159 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.06ms
+[I 05:17:14.889 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:17:44.067 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 05:17:44.573 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 05:17:49.737 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.04ms
+[I 05:17:50.540 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:18:07.925 NotebookApp] 302 GET / (111.186.116.227) 0.55ms
+[W 05:18:25.444 NotebookApp] 404 GET /tree/pythonPractice/cjk (49.52.97.50) 1.95ms referer=http://120.79.65.52:8888/notebooks/pythonPractice/content.ipynb
+[I 05:18:28.041 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:4ef95237335a4fb28a84df89065edecd
+[I 05:18:28.672 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:18:39.908 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.11ms
+[I 05:18:40.608 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:18:46.332 NotebookApp] Saving file at /content.ipynb
+[I 05:20:45.596 NotebookApp] Saving file at /content.ipynb
+[I 05:21:50.875 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:df4fe929e612407894b22b0c0f9fe752
+[I 05:21:50.876 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:83fed2fcd93d4eaf83d84ca62de61f57
+[I 05:22:39.821 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:22:46.327 NotebookApp] Saving file at /content.ipynb
+[I 05:24:45.652 NotebookApp] Saving file at /content.ipynb
+[I 05:26:32.956 NotebookApp] Creating new notebook in /reinforcementLearning/reference
+[I 05:26:33.639 NotebookApp] Kernel started: 646f682c-11e7-4477-b39b-a97d55a1960d
+[I 05:26:34.177 NotebookApp] Adapting to protocol v5.1 for kernel 646f682c-11e7-4477-b39b-a97d55a1960d
+[I 05:26:37.554 NotebookApp] Starting buffering for 646f682c-11e7-4477-b39b-a97d55a1960d:ada901742ca74cad8178a75285b1cc3f
+[I 05:26:46.325 NotebookApp] Saving file at /content.ipynb
+[I 05:27:10.044 NotebookApp] Kernel shutdown: 646f682c-11e7-4477-b39b-a97d55a1960d
+[I 05:28:45.600 NotebookApp] Saving file at /content.ipynb
+[I 05:30:28.486 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:30:28.490 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:30:28.491 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:83fed2fcd93d4eaf83d84ca62de61f57
+[I 05:30:29.453 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:30:46.731 NotebookApp] Saving file at /content.ipynb
+[I 05:31:51.628 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:83fed2fcd93d4eaf83d84ca62de61f57
+[I 05:34:44.377 NotebookApp] Saving file at /content.ipynb
+[W 05:35:32.490 NotebookApp] delete /reinforcementLearning/reference/Untitled.ipynb
+[W 05:35:32.490 NotebookApp] Skipping trash for /undergraduateGroup/reinforcementLearning/reference/Untitled.ipynb, on different device to home directory
+[I 05:36:33.109 NotebookApp] Creating new notebook in /reinforcementLearning/reference
+[I 05:36:33.824 NotebookApp] Kernel started: d59a27bc-48b7-4942-acce-37f2de053119
+[I 05:36:34.316 NotebookApp] Adapting to protocol v5.1 for kernel d59a27bc-48b7-4942-acce-37f2de053119
+[I 05:36:36.101 NotebookApp] Starting buffering for d59a27bc-48b7-4942-acce-37f2de053119:e98d1701b51f4d0199ff01474634bf34
+[I 05:36:50.474 NotebookApp] Kernel shutdown: d59a27bc-48b7-4942-acce-37f2de053119
+[W 05:39:25.863 NotebookApp] delete /reinforcementLearning/reference/Untitled.ipynb
+[W 05:39:25.864 NotebookApp] Skipping trash for /undergraduateGroup/reinforcementLearning/reference/Untitled.ipynb, on different device to home directory
+[I 05:40:32.501 NotebookApp] 302 GET / (111.186.116.227) 0.65ms
+[I 05:40:32.607 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:a19dcd0c930f4370841542dca7eb05a4
+[I 05:40:37.376 NotebookApp] Creating new directory in 
+[I 05:40:46.387 NotebookApp] Saving file at /content.ipynb
+[I 05:41:06.362 NotebookApp] Uploading file to /img/s.png
+[I 05:41:07.686 NotebookApp] Uploading file to /img/屏幕快照 2019-05-14 下午1.36.26.png
+[I 05:41:09.205 NotebookApp] Uploading file to /img/屏幕快照 2019-05-14 下午1.36.57.png
+[W 05:42:33.863 NotebookApp] 404 GET /notebooks/img/upload (111.186.116.227): No such file or directory: img/upload
+[W 05:42:33.865 NotebookApp] 404 GET /notebooks/img/upload (111.186.116.227) 2.53ms referer=http://120.79.65.52:8888/notebooks/content.ipynb
+[I 05:42:41.286 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 1.04ms
+[I 05:42:45.619 NotebookApp] Saving file at /content.ipynb
+[I 05:43:03.985 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 1.13ms
+[I 05:43:25.639 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.15ms
+[I 05:44:45.600 NotebookApp] Saving file at /content.ipynb
+[I 05:44:50.745 NotebookApp] Saving file at /content.ipynb
+[I 05:44:51.485 NotebookApp] Saving file at /content.ipynb
+[I 05:44:55.461 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:45:44.002 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 1.26ms
+[I 05:45:44.042 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 1.33ms
+[I 05:45:44.047 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.28ms
+[I 05:45:44.149 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:45:48.792 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 05:45:49.577 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 05:45:51.476 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:3cdbde86b36e41bb896ddb6ed568fcce
+[I 05:45:54.749 NotebookApp] 302 GET /tree/gameTheory/content.ipynb (111.186.116.227) 0.91ms
+[I 05:45:55.472 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 05:46:06.198 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:46:16.858 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 05:46:20.351 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:ad629961114c4b028afe98543210c577
+[I 05:46:29.361 NotebookApp] Saving file at /gameTheory/content.ipynb
+[I 05:46:31.268 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:313f18eb531741528abc5f6395381f28
+[I 05:46:34.967 NotebookApp] 302 GET /tree/wirelessNetwork/content.ipynb (111.186.116.227) 1.31ms
+[I 05:46:35.687 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 05:46:44.797 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 05:46:45.519 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 05:46:48.061 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:fb297bd043cd409785aefb1335636ee7
+[I 05:46:49.883 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 0.98ms
+[I 05:46:50.771 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:47:09.350 NotebookApp] Saving file at /pythonPractice/content.ipynb
+[I 05:47:11.234 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:6a65be43ba914e2c8d82ba6ba9a1cb9e
+[I 05:47:13.854 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:47:15.351 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.67ms
+[I 05:47:15.371 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.99ms
+[I 05:47:15.395 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 0.96ms
+[I 05:47:15.471 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:47:20.249 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:47:39.318 NotebookApp] Creating new notebook in /reinforcementLearning/reference
+[I 05:47:40.280 NotebookApp] Kernel started: 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 05:47:40.777 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 05:49:20.218 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 05:49:23.092 NotebookApp] Saving file at /reinforcementLearning/content.ipynb
+[I 05:49:37.450 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:49:39.137 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 05:49:40.364 NotebookApp] Saving file at /reinforcementLearning/reference/content.ipynb
+[I 05:50:42.144 NotebookApp] Saving file at /reinforcementLearning/reference/content.ipynb
+[I 05:50:42.721 NotebookApp] Saving file at /reinforcementLearning/reference/content.ipynb
+[I 05:50:47.877 NotebookApp] Starting buffering for 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b:ceadaec4dba74ddc8e71a55b9f2cd3b9
+[I 05:50:56.665 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 05:50:58.547 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[W 05:51:00.715 NotebookApp] 404 GET /tree/reinforcementLearning/PPT/content.ipynb (111.186.116.227) 2.74ms referer=http://120.79.65.52:8888/notebooks/reinforcementLearning/content.ipynb
+[I 05:51:15.038 NotebookApp] Creating new notebook in /reinforcementLearning/PPT
+[I 05:51:15.758 NotebookApp] Kernel started: fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 05:51:16.231 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 05:52:02.392 NotebookApp] Saving file at /reinforcementLearning/PPT/content.ipynb
+[I 05:52:04.700 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:52:05.668 NotebookApp] 302 GET /tree/reinforcementLearning/PPT/content.ipynb (111.186.116.227) 1.02ms
+[I 05:52:06.394 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[W 05:52:50.965 NotebookApp] 404 GET /tree/reinforcementLearning/code/content.ipynb (111.186.116.227) 2.41ms referer=http://120.79.65.52:8888/notebooks/reinforcementLearning/content.ipynb
+[I 05:53:06.463 NotebookApp] Creating new notebook in /reinforcementLearning/code
+[I 05:53:07.381 NotebookApp] Kernel started: 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 05:53:07.843 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 05:54:06.359 NotebookApp] Saving file at /reinforcementLearning/PPT/content.ipynb
+[I 05:54:15.455 NotebookApp] 302 GET /tree/reinforcementLearning/code/content.ipynb (111.186.116.227) 1.10ms
+[I 05:54:16.195 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 05:54:35.176 NotebookApp] Saving file at /reinforcementLearning/PPT/content.ipynb
+[I 05:54:48.118 NotebookApp] Starting buffering for fbeb6f3c-017b-48b2-893c-81285296cd54:0e3a719cfec54a188c1c75e6e925da98
+[I 05:54:53.059 NotebookApp] 302 GET /tree/reinforcementLearning/code/content.ipynb (111.186.116.227) 1.23ms
+[I 05:54:53.828 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 05:55:08.352 NotebookApp] Saving file at /reinforcementLearning/code/content.ipynb
+[I 05:55:33.871 NotebookApp] Saving file at /reinforcementLearning/code/content.ipynb
+[I 05:55:39.037 NotebookApp] 302 GET /tree/reinforcementLearning/PPT/content.ipynb (111.186.116.227) 0.97ms
+[I 05:55:39.787 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 05:55:44.876 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 05:55:46.207 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:55:49.602 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 05:55:52.663 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 05:55:54.004 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:55:54.820 NotebookApp] 302 GET /tree/reinforcementLearning/code/content.ipynb (111.186.116.227) 0.95ms
+[I 05:55:55.479 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 05:56:01.527 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 05:56:02.746 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 05:56:05.088 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.67ms
+[I 05:56:05.089 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.59ms
+[I 05:56:05.129 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.12ms
+[I 05:56:05.182 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:56:15.025 NotebookApp] Starting buffering for fbeb6f3c-017b-48b2-893c-81285296cd54:b109c66b192e42fb8a30e9887c0f7005
+[I 05:56:18.565 NotebookApp] Starting buffering for 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b:1e3a100cbddd4651886ed55cdd675d6a
+[I 05:56:23.917 NotebookApp] Starting buffering for 425e5deb-b642-4eec-bb71-20bdcb6ac004:d57d23f6315d473388f7c80d5da7f1d1
+[I 05:56:24.778 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:01da63867c184ee182e9e7542b132c4d
+[I 05:56:26.757 NotebookApp] 302 GET /tree/gameTheory/content.ipynb (111.186.116.227) 1.07ms
+[I 05:56:27.448 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 05:56:47.784 NotebookApp] Creating new notebook in /gameTheory/reference
+[I 05:56:48.502 NotebookApp] Kernel started: a1195544-1751-427f-b111-2643d3793752
+[I 05:56:49.005 NotebookApp] Adapting to protocol v5.1 for kernel a1195544-1751-427f-b111-2643d3793752
+[I 05:58:17.812 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 05:58:28.361 NotebookApp] Saving file at /gameTheory/content.ipynb
+[I 05:58:40.480 NotebookApp] Saving file at /gameTheory/reference/content.ipynb
+[I 05:58:42.307 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 05:58:50.204 NotebookApp] Adapting to protocol v5.1 for kernel a1195544-1751-427f-b111-2643d3793752
+[I 05:58:54.249 NotebookApp] Adapting to protocol v5.1 for kernel a1195544-1751-427f-b111-2643d3793752
+[I 05:59:16.899 NotebookApp] Saving file at /gameTheory/content.ipynb
+[I 05:59:50.765 NotebookApp] Creating new notebook in /gameTheory/PPT
+[I 05:59:51.587 NotebookApp] Kernel started: 3a5de36d-a8dd-469d-ba83-775da5daf89d
+[I 05:59:52.121 NotebookApp] Adapting to protocol v5.1 for kernel 3a5de36d-a8dd-469d-ba83-775da5daf89d
+[I 06:00:28.593 NotebookApp] Saving file at /gameTheory/reference/content.ipynb
+[I 06:00:47.411 NotebookApp] Saving file at /gameTheory/PPT/content.ipynb
+[I 06:00:49.279 NotebookApp] Starting buffering for 3a5de36d-a8dd-469d-ba83-775da5daf89d:1b5e8e86dbd54aff87191f7aebcbfdb3
+[I 06:00:56.992 NotebookApp] Creating new notebook in /gameTheory/code
+[I 06:00:57.648 NotebookApp] Kernel started: 63e1d571-9dee-452b-903d-1c5e85cc8830
+[I 06:00:58.103 NotebookApp] Adapting to protocol v5.1 for kernel 63e1d571-9dee-452b-903d-1c5e85cc8830
+[I 06:01:32.909 NotebookApp] Saving file at /gameTheory/code/content.ipynb
+[I 06:01:34.751 NotebookApp] Starting buffering for 63e1d571-9dee-452b-903d-1c5e85cc8830:97916ca4dc7f48b882de691a16a97655
+[I 06:01:41.100 NotebookApp] Starting buffering for a1195544-1751-427f-b111-2643d3793752:576da38d994c4a028b31525bbfcf982e
+[I 06:01:49.887 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 06:01:59.316 NotebookApp] Creating new notebook in /wirelessNetwork/reference
+[I 06:02:00.075 NotebookApp] Kernel started: 490394e1-523b-449b-beef-2072f17ef4af
+[I 06:02:00.507 NotebookApp] Adapting to protocol v5.1 for kernel 490394e1-523b-449b-beef-2072f17ef4af
+[I 06:02:45.716 NotebookApp] Saving file at /wirelessNetwork/reference/content.ipynb
+[I 06:02:49.474 NotebookApp] Starting buffering for 490394e1-523b-449b-beef-2072f17ef4af:83440870ad884d758811c8cc5b632a33
+[I 06:02:56.494 NotebookApp] Creating new notebook in /wirelessNetwork/code
+[I 06:02:57.136 NotebookApp] Kernel started: 8f50187f-a7fe-48b1-b027-f69fd8940b8f
+[I 06:02:57.617 NotebookApp] Adapting to protocol v5.1 for kernel 8f50187f-a7fe-48b1-b027-f69fd8940b8f
+[I 06:03:31.068 NotebookApp] Saving file at /wirelessNetwork/code/content.ipynb
+[I 06:03:32.622 NotebookApp] Starting buffering for 8f50187f-a7fe-48b1-b027-f69fd8940b8f:16e7788c10884664875c95cd947bb12a
+[I 06:03:41.220 NotebookApp] Creating new notebook in /wirelessNetwork/PPT
+[I 06:03:41.825 NotebookApp] Kernel started: f81d2d07-1cca-4b2d-9e9e-0f696f3fc05a
+[I 06:03:42.293 NotebookApp] Adapting to protocol v5.1 for kernel f81d2d07-1cca-4b2d-9e9e-0f696f3fc05a
+[I 06:04:23.388 NotebookApp] Saving file at /wirelessNetwork/PPT/content.ipynb
+[I 06:04:24.873 NotebookApp] Starting buffering for f81d2d07-1cca-4b2d-9e9e-0f696f3fc05a:fde0c9d97e4d45ba86e3be7c7a774421
+[I 06:04:40.275 NotebookApp] Saving file at /wirelessNetwork/content.ipynb
+[I 06:04:41.777 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:1d8c20a4a8a04b6f96b72f6c00b259f3
+[I 06:04:45.096 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:83bb80fd29594a1a86ff5dab2b18a456
+[I 06:04:45.711 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:4df1fd86689c43ab8564206b072fb5fa
+[I 06:05:13.475 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.63ms
+[I 06:05:13.477 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.60ms
+[I 06:05:13.515 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.01ms
+[I 06:05:13.587 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:05:21.340 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:05:23.944 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 06:05:27.220 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 06:05:28.448 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:05:29.604 NotebookApp] 302 GET /tree/reinforcementLearning/PPT/content.ipynb (111.186.116.227) 1.41ms
+[I 06:05:30.236 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 06:05:31.523 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:05:34.023 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 1.42ms
+[I 06:05:34.024 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.84ms
+[I 06:05:34.025 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 0.82ms
+[I 06:05:34.194 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:05:36.000 NotebookApp] 302 GET /tree/gameTheory/content.ipynb (111.186.116.227) 1.30ms
+[I 06:05:36.664 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 06:05:37.844 NotebookApp] 302 GET /tree/gameTheory/code/content.ipynb (111.186.116.227) 0.98ms
+[I 06:05:38.482 NotebookApp] Adapting to protocol v5.1 for kernel 63e1d571-9dee-452b-903d-1c5e85cc8830
+[I 06:05:40.432 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 06:05:43.913 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 1.08ms
+[I 06:05:43.915 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.64ms
+[I 06:05:43.917 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 0.63ms
+[I 06:05:44.442 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:05:45.514 NotebookApp] 302 GET /tree/wirelessNetwork/content.ipynb (111.186.116.227) 0.98ms
+[I 06:05:46.167 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 06:05:47.187 NotebookApp] 302 GET /tree/wirelessNetwork/PPT/content.ipynb (111.186.116.227) 1.00ms
+[I 06:05:47.873 NotebookApp] Adapting to protocol v5.1 for kernel f81d2d07-1cca-4b2d-9e9e-0f696f3fc05a
+[I 06:05:49.756 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 06:05:52.127 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.66ms
+[I 06:05:52.130 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.66ms
+[I 06:05:52.172 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.58ms
+[I 06:05:52.220 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:05:53.256 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.00ms
+[I 06:05:53.891 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 06:05:56.565 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.65ms
+[I 06:05:56.571 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.76ms
+[I 06:05:56.609 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.03ms
+[I 06:05:56.667 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:06:05.069 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:06:07.732 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:fa87b081049945108b2de34ea95a04dd
+[I 06:06:08.346 NotebookApp] Starting buffering for f81d2d07-1cca-4b2d-9e9e-0f696f3fc05a:b34713a2b87545df9f7c8e2400ae5f41
+[I 06:06:08.541 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:6af9c08b4fd24e6f8b76b3a6a37d2030
+[I 06:06:09.478 NotebookApp] Starting buffering for 63e1d571-9dee-452b-903d-1c5e85cc8830:1ec8051679474233ae198aee3e6ff5af
+[I 06:06:09.775 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:99662f8ccae64414aed7f53998b1f237
+[I 06:06:10.543 NotebookApp] Starting buffering for fbeb6f3c-017b-48b2-893c-81285296cd54:a1b56037d9a74af19131607811e00cef
+[I 06:06:11.550 NotebookApp] Starting buffering for 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b:49db8b4178804b52820619f265a5c768
+[I 06:06:11.860 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:c2f85d14ff63486680f5a52f69948d47
+[I 06:06:12.817 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:e8a2b8287d604bca9de1de91661943d5
+[I 06:06:34.087 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=JHS5IVHWnAn2XyJQFzdl1RX9ghlsuLv3V6F0yQpRjibEbMFpt%2BFS0jyy5KsIjsIWDhYP%2FZwFnOA%2FGJBC3nME0TigzeC7ddnF8%2FRojTJ16j6XTP3Nv%2Ft2XINF%2BPKbQEFb3ockI%2Bw%2BenNGQR%2BLqy0J1djVwbev%2BhUmljhsR6u5yE%2BoeeSGG2Kk0Q0bySCCiEdXJmV%2FMSh3TPXT1o%2Ba43UF3A%3D%3D (198.13.45.221) 0.90ms
+[I 06:07:15.221 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fcontent.ipynb%3Fnsukey%3DJHS5IVHWnAn2XyJQFzdl1RX9ghlsuLv3V6F0yQpRjibEbMFpt%252BFS0jyy5KsIjsIWDhYP%252FZwFnOA%252FGJBC3nME0TigzeC7ddnF8%252FRojTJ16j6XTP3Nv%252Ft2XINF%252BPKbQEFb3ockI%252Bw%252BenNGQR%252BLqy0J1djVwbev%252BhUmljhsR6u5yE%252BoeeSGG2Kk0Q0bySCCiEdXJmV%252FMSh3TPXT1o%252Ba43UF3A%253D%253D (198.13.45.221) 1.17ms
+[I 06:07:25.624 NotebookApp] 302 GET /notebooks/img/download.png (198.13.45.221) 0.96ms
+[I 06:07:25.626 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:07:25.751 NotebookApp] 302 GET /notebooks/img/upload.png (198.13.45.221) 1.02ms
+[I 06:07:26.595 NotebookApp] 302 GET /notebooks/img/shutdown.png (198.13.45.221) 1.62ms
+[I 06:07:45.061 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:07:49.795 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:a0f525fbb34e49fbba10005eff1d5dea
+[I 06:08:20.964 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:8f5d34dcc1064c9e83030d5a3645d601
+[I 06:08:54.269 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.68ms
+[I 06:08:54.270 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.61ms
+[I 06:08:54.310 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.02ms
+[I 06:08:54.371 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:08:56.523 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:08:58.882 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 06:09:16.867 NotebookApp] Uploading file to /reinforcementLearning/reference/打车需求研究整理.docx
+[W 06:09:33.398 NotebookApp] delete /reinforcementLearning/reference/打车需求研究整理.docx
+[W 06:09:33.399 NotebookApp] Skipping trash for /undergraduateGroup/reinforcementLearning/reference/打车需求研究整理.docx, on different device to home directory
+[I 06:09:35.880 NotebookApp] Starting buffering for 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b:689b2216080a44e2b8d79d9c0d0186bd
+[I 06:09:36.347 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:b8ed33cd056e421ebd385433e44fef23
+[I 06:09:36.701 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:db21edda8258438d8a0b85ed8ce37fc8
+[I 06:09:46.073 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.76ms
+[I 06:09:46.074 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.64ms
+[I 06:09:46.114 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 1.20ms
+[I 06:09:46.180 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:10:04.095 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:10:06.134 NotebookApp] 302 GET /tree/reinforcementLearning/PPT/content.ipynb (111.186.116.227) 1.08ms
+[I 06:10:06.782 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 06:10:08.144 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:10:10.083 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.227) 0.67ms
+[I 06:10:10.084 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.227) 0.61ms
+[I 06:10:10.121 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.227) 0.68ms
+[I 06:10:10.173 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:10:24.945 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.227) 1.06ms
+[I 06:10:25.670 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 06:10:33.717 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:cfab6eab3a86413bb4c24ae9310b6c01
+[I 06:10:35.155 NotebookApp] Starting buffering for fbeb6f3c-017b-48b2-893c-81285296cd54:912dd7b3fd17439d8e85b075ea7ec1e4
+[I 06:10:35.656 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:88d9b3c9ff4c49c99531a92e07cedb42
+[I 06:10:36.453 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:ff798c842e95435f81a654b15d9276b1
