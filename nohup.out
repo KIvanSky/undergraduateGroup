@@ -784,3 +784,362 @@
 [I 21:05:03.953 NotebookApp] 302 GET / (101.251.238.54) 0.45ms
 [I 22:03:21.432 NotebookApp] 302 GET / (106.15.76.85) 0.53ms
 [W 22:25:00.845 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.30ms referer=None
+[W 00:46:16.937 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.41ms referer=None
+[W 01:18:25.905 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.34ms referer=None
+[W 02:18:37.560 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.47ms referer=None
+[I 03:54:54.287 NotebookApp] 302 GET / (47.97.215.92) 0.47ms
+[I 03:54:54.315 NotebookApp] 302 GET /tree? (47.97.215.92) 0.80ms
+[I 04:16:50.332 NotebookApp] 302 GET / (185.173.35.41) 0.63ms
+[I 05:52:40.756 NotebookApp] 302 GET / (209.17.96.242) 0.47ms
+[W 06:12:15.133 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.34ms referer=None
+[I 08:38:53.679 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.149) 0.64ms
+[I 08:38:53.680 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.149) 0.55ms
+[I 08:38:53.681 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.149) 0.56ms
+[I 08:38:53.798 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 08:39:31.468 NotebookApp] Saving file at /content.ipynb
+[I 08:39:32.569 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.149) 1.39ms
+[I 08:39:33.291 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 08:39:52.985 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:4b0eba2b5969433787b109ded1f46a14
+[I 08:39:53.583 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:5263c65ac11a4e27af99f040e22e3931
+[I 08:41:09.533 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.149) 0.82ms
+[I 08:41:09.551 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.149) 1.10ms
+[I 08:41:09.552 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.149) 0.61ms
+[I 08:41:09.669 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 08:41:18.116 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:00ad9867b9614d088d927e004ebbeef4
+[I 09:49:23.573 NotebookApp] 302 GET /tree/reinforcementlearning/reference (106.14.204.78) 0.67ms
+[I 09:51:31.880 NotebookApp] 302 GET /tree/gametheory/reference (101.132.98.159) 0.62ms
+[I 09:51:31.890 NotebookApp] 302 GET /tree? (101.132.98.159) 0.72ms
+[I 09:54:45.886 NotebookApp] 302 GET /tree/gametheory/content.ipynb (47.92.38.53) 0.57ms
+[I 09:54:45.895 NotebookApp] 302 GET /notebooks/gametheory/reference/untitled.ipynb?kernel_name=python3 (47.92.38.53) 0.56ms
+[I 09:54:45.907 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=nv%2fikptsklyat2nq7wi07gs6ok2cjikp0fu7ithef6ruibai9zabutdczzeqs7zx0itro3vndnvpp8xznpt8cblif511npbrj6grtelyu%2bs9xa%2bdgk5quqy6fyuplzh6nk0g%2fk1unnxesfb35q845rdebajfpbqfas%2ffyffreojcggfx8kotvrusy7i6cnjmg4rvxzlowj4n%2bzw2m967jq%3d%3d (47.92.38.53) 0.64ms
+[I 09:56:32.231 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=j08e1z4hdmy5crmjad4yn9ehnml2rojja0ry9eqnqkexrddaanlnvfd%2bp7%2bhln43ys6xkqxm06kagt0kzxo2xdrnllgrhwddwlqy2cny28yhx6ffckxdr1bl8liaadt4mfcsaxbgvlaxaestsu%2bszw%3d%3d (47.92.137.155) 0.73ms
+[I 09:57:33.247 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=rwxvmhnuv20ymkytdpqcnni1ikyny3ncurhyxtatptqd6s7u3qlfymtczqncbkypirn4ccettakt7adi99v6r3epu7zh%2fak7ntocbmbnerhaw4tlxr1l0zhnzh2%2fcm%2b2b50uxxymf6ibnsakfrn0xht5jwo9d5lubm3ft%2brqvuszm9tbwcufp3p4atgza3qtbhu91h63xnhzvqsq%2f3gpjg%3d%3d (47.100.38.232) 0.66ms
+[I 09:57:33.251 NotebookApp] 302 GET /notebooks/gametheory/code/content.ipynb (47.100.38.232) 0.51ms
+[I 09:59:59.457 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=ikny2qeluj5rewwe2ebx9unkxdysf5fjair%2fp5rt19dkamjfquzrn%2fiscsor42%2fzjo9ajfjyniy2awxcbvkdodl7mcsj1hbn2i9l6ymymdkd6s7nzoc6qtkbnp9weijmaybf1ply468%2fpwhqknawp1pbljosele84hhsaapi1hr8on1ig8l6wayhnrlcstc%2fnvgjyjtso26hqgwcff2y2g%3d%3d (47.92.148.120) 0.69ms
+[I 09:59:59.463 NotebookApp] 302 GET /tree/pythonpractice/content.ipynb (47.92.148.120) 0.49ms
+[I 09:59:59.469 NotebookApp] 302 GET /tree/pythonpractice/zs (47.92.148.120) 0.36ms
+[I 09:59:59.476 NotebookApp] 302 GET /notebooks/wirelessnetwork/reference/content.ipynb (47.92.148.120) 0.92ms
+[I 10:04:21.762 NotebookApp] 302 GET / (106.14.204.78) 0.53ms
+[I 10:04:21.797 NotebookApp] 302 GET /tree? (106.14.204.78) 0.65ms
+[I 10:04:21.846 NotebookApp] 302 GET /tree/pythonpractice/ylj (106.14.204.78) 0.58ms
+[W 10:06:03.325 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.29ms referer=None
+[I 10:07:06.245 NotebookApp] 302 GET /notebooks/gametheory/ppt/content.ipynb (47.100.38.232) 0.61ms
+[I 10:09:32.741 NotebookApp] 302 GET /tree/pythonpractice/cjk (47.100.51.108) 0.58ms
+[I 10:09:32.742 NotebookApp] 302 GET /tree/wirelessnetwork/ppt (47.100.51.108) 0.38ms
+[I 10:09:32.747 NotebookApp] 302 GET /notebooks/wirelessnetwork/content.ipynb (47.100.51.108) 0.50ms
+[I 10:09:32.880 NotebookApp] 302 GET /tree/wirelessnetwork/reference (47.100.51.108) 0.67ms
+[I 10:14:01.299 NotebookApp] 302 GET /notebooks/reinforcementlearning/code/content.ipynb (106.15.176.145) 0.62ms
+[I 10:16:22.835 NotebookApp] 302 GET /notebooks/gametheory/ppt/untitled.ipynb?kernel_name=python3 (39.107.86.51) 0.75ms
+[I 10:16:22.838 NotebookApp] 302 GET /tree/wirelessnetwork/content.ipynb (39.107.86.51) 0.45ms
+[I 10:16:22.839 NotebookApp] 302 GET /notebooks/wirelessnetwork/reference/untitled.ipynb?kernel_name=python3 (39.107.86.51) 0.39ms
+[I 10:16:22.840 NotebookApp] 302 GET /notebooks/content.ipynb (39.107.86.51) 0.36ms
+[I 10:16:22.854 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=vh5d61kmewp%2flql8wd6wi5msflek%2bl3sltrh4zchzblyflddccoaowq4s7hacrshbfzum5w%2fnwtogcfzpcamhzdw8jw2qinna6zzl%2fkknj%2b6tkfrs%2fkwejckt7lu2naa%2b7z4wikd3f9velqc4nzrynwf%2bkful9q27c0mcnmxmbwzzmm%2bhrs%2bf4vkszcguvmu3ghbj0k4gu42tsleebgo4w%3d%3d (39.107.86.51) 0.71ms
+[I 10:18:02.367 NotebookApp] 302 GET /tree/gametheory/ppt (101.132.69.5) 0.63ms
+[I 10:18:02.372 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=kaik9h7rr5bzf4vbfdkmgivmm4nyprkifeuyaurxyngezjh%2b%2fdbtrlge35%2bfi2vkxesswj2al9qvisvpvppjgzo1yf4wduyhnxgcdpz%2bfb4ce4%2fsuxziahfshcqxqviquxhk12fuiihoiy5zs7l%2bymizxaxigj2c2obtgl3pfogqdgliunz%2b6zlspu6h%2bqj2eb69rxgb0bha2gabnyrmcw%3d%3d (101.132.69.5) 0.50ms
+[I 10:18:02.375 NotebookApp] 302 GET /notebooks/reinforcementlearning/ppt/untitled.ipynb?kernel_name=python3 (101.132.69.5) 0.37ms
+[I 10:18:02.376 NotebookApp] 302 GET /notebooks/wirelessnetwork/code/untitled.ipynb?kernel_name=python3 (101.132.69.5) 0.37ms
+[I 10:20:31.849 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=jn6cjzhhoa0tclkzvq9uwg1yrrso%2b9r4al2oqgwk15e436%2frggwserdwgh5pck%2fv53lws3gtq8sowtqckjczbkgeer1eguscug8reuxzstm%2brwq829ixa9b34iswa54jdnv6ype%2fkro63l5urhbdb3jre67su5ni4tdzlsrnvdwrgedygm%2bmfx1kelnetn0abu5apiolc9neeggqy5mota%3d%3d (106.14.115.254) 0.66ms
+[I 10:20:31.855 NotebookApp] 302 GET /notebooks/gametheory/code/untitled.ipynb?kernel_name=python3 (106.14.115.254) 0.49ms
+[I 10:22:47.980 NotebookApp] 302 GET /notebooks/reinforcementlearning/code/untitled.ipynb?kernel_name=python3 (47.97.204.168) 0.67ms
+[I 10:22:48.063 NotebookApp] 302 GET /notebooks/wirelessnetwork/ppt/content.ipynb (47.97.204.168) 0.65ms
+[I 10:22:48.112 NotebookApp] 302 GET /tree/gametheory/code/content.ipynb (47.97.204.168) 0.63ms
+[I 10:22:48.133 NotebookApp] 302 GET /tree/gametheory/ppt/content.ipynb (47.97.204.168) 0.73ms
+[I 10:25:32.407 NotebookApp] 302 GET /notebooks/gametheory/reference/content.ipynb (101.132.107.246) 0.66ms
+[I 10:28:31.328 NotebookApp] 302 GET /notebooks/wirelessnetwork/ppt/untitled.ipynb?kernel_name=python3 (101.132.144.145) 0.42ms
+[I 10:30:58.440 NotebookApp] 302 GET /tree/pythonpractice/qjk (39.107.116.226) 0.66ms
+[I 10:32:05.570 NotebookApp] 302 GET /notebooks/reinforcementlearning/ppt/content.ipynb (101.132.69.5) 0.76ms
+[I 10:34:22.057 NotebookApp] 302 GET /tree/gametheory/reference/content.ipynb (139.224.116.230) 0.62ms
+[I 10:38:01.318 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=5om6y4tf2wmzbdo310xx8wljzchyxd4qpmautxgia8d1bnnb%2bafgyeg%2bn4pxvmipm5o%2bwttbrwi78cbuysb5j%2fdkhx1vxhwpax6vxqaughoh2i6rkrpzp%2fbuyymqiopefjjnxbybxplmj%2bjqyeermy0c2ubk63jgb5yglkx6h91nzk0aa1lawohwvh8sjh6ilcshkzmpi5q6idvyebnixw%3d%3d (101.132.100.6) 0.69ms
+[I 10:38:01.398 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=fdrintgnvpud%2fkgoiyaxsbelfkwlas%2fngmqugckofn2zoqaixvv7%2bdgpdeegxlrvevdyrjfhjps3nfhf9kwjkhucdfl%2fuccpmlbabob8m%2bluvnnmjter7h6gvv72%2bxoauowfqim%2byqfnukhm6ssecah0xiq4yoh0oioti8xivfewg23tjwttswyplet8vb6plttrj4ye%2fmkl7tmfbfwjba%3d%3d (101.132.100.6) 0.78ms
+[I 10:38:01.455 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=ggofljrngsdj39egf6f7ulqmlqgvissmcmnw8wobognc2frhslroewfwg1hrxtjbswyqhhw8ecind4kjs82fqmcnlhadlzce3u0j2fg2pazhu2fkkctloprkdmkss8n6rffigoycfztvnw4bkvfglzpjgrsahcqu0nh7mgzpllkyzzrg7fedt9qqhnkg8b8bfc2f0dm6yqp7lrjskl5iwyfz2ffa3d3d (101.132.100.6) 0.64ms
+[I 10:38:01.480 NotebookApp] 302 GET /notebooks/pythonpractice/content.ipynb (101.132.100.6) 0.67ms
+[I 10:38:01.485 NotebookApp] 302 GET /notebooks/gametheory/content.ipynb (101.132.100.6) 0.49ms
+[I 10:39:59.925 NotebookApp] 302 GET /tree/wirelessnetwork/reference/content.ipynb (101.132.100.6) 0.66ms
+[I 10:39:59.926 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=miohu4np%2ff%2bj%2bu8irshjsbckzcihlmbebg4h5wwyalqaflxfn5lv5gctqd50c3allsepfcgmxh77dc%2fag%2fmhwvhwkezy%2fxxcehsfxteezsy8rn9a6iq8troheayt42hbjmgnjnkladudqavxzemfs%2bwlscfjrabxdpbiiqsc58%2b9owyggjzwrpn3wcl18tgrammd5jyefdxqi6awbg4z9q%3d%3d (101.132.100.6) 0.49ms
+[I 10:43:45.544 NotebookApp] 302 GET /tree/pythonpractice/jk (106.14.168.238) 0.52ms
+[I 10:43:45.576 NotebookApp] 302 GET /tree/reinforcementlearning/ppt (106.14.168.238) 0.52ms
+[I 10:43:45.592 NotebookApp] 302 GET /tree/wirelessnetwork/ppt/content.ipynb (106.14.168.238) 0.77ms
+[I 10:46:05.387 NotebookApp] 302 GET /notebooks/reinforcementlearning/content.ipynb (47.92.31.65) 0.57ms
+[I 10:46:05.403 NotebookApp] 302 GET /notebooks/reinforcementlearning/reference/content.ipynb (47.92.31.65) 0.59ms
+[I 10:49:35.992 NotebookApp] 302 GET /tree/reinforcementlearning/code (47.92.35.138) 0.60ms
+[I 10:51:33.800 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=hr4jz%2f8lbe0jiwmvzbbrvdpeec2p%2b6wadp0cymysftas0lqeelrjhvx8f%2f7cvm46tdlujcr8t7xp2hmg0gbhyj09yzf5dzb2ykf0yylh5hz6g9ymqlvonpeoyrjc1mguqbqo3kjghdbdrawkjdj%2fvazt0uxqyhwkm%2brpfr1ul4exdsdfqzadcig8v08pe4idafxml0k3npzpva3wq%2fk3uw%3d%3d (47.98.37.19) 0.72ms
+[I 10:51:33.803 NotebookApp] 302 GET /tree/reinforcementlearning/code/content.ipynb (47.98.37.19) 0.55ms
+[I 10:51:33.804 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=jhs5ivhwnan2xyjqfzdl1rx9ghlsulv3v6f0yqprjibebmfpt%2bfs0jyy5ksijsiwdhyp%2fzwfnoa%2fgjbc3nme0tigzec7ddnf8%2frojtj16j6xtp3nv%2ft2xinf%2bpkbqefb3ocki%2bw%2benngqr%2blqy0j1djvwbev%2bhumljhsr6u5ye%2boeesgg2kk0q0byscciedxjmv%2fmsh3tpxt1o%2ba43uf3a%3d%3d (47.98.37.19) 0.48ms
+[I 10:53:02.371 NotebookApp] 302 GET /tree/reinforcementlearning/ppt/content.ipynb (101.132.98.159) 0.63ms
+[I 10:53:02.374 NotebookApp] 302 GET /notebooks/reinforcementlearning/reference/untitled.ipynb?kernel_name=python3 (101.132.98.159) 0.48ms
+[I 10:53:02.380 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=u0szuabs698pt24g3es27otk59f3hrvu5vwnxfpqsjq3wwf6wgwbs%2bvdypnpxef%2brthxdq%2fxmovd1ff%2b09j1qhjpzedxaecwpamvkogjru9hxg1pwymqmuymy81phjtxl1nnyzyyfppy6wgpk3jnd09x%2foc%2fkpftcgnlnomcx6pefqhim0wguivypessabfbdu%2fykuswpibd8ikcw%2bdmdq%3d%3d (101.132.98.159) 0.59ms
+[W 11:23:54.572 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.39ms referer=None
+[I 13:53:50.639 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=7lw2KdYludJ8JKzUj7AkZuGI1wNcSchJ4PxOlRrt0cIr0St9i%2B1L997F3%2BkT0%2FY566Nu1ffbFIcYOllPrj6Efm%2Bf0bb1sHrAxdoMMVol0Sy5BvxqDNWJ8nL48MxeH6CAdFoecisr%2BXYG9cNeeEAhOEWnAB9JknMtbX2JuCO5BYu5hvEn5EN8SU7WvqzO5sVB23UJ8y%2BXwGHoz0I%2BmHjo7A%3D%3D (124.76.26.90) 0.71ms
+[I 13:53:59.615 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fcontent.ipynb%3Fnsukey%3D7lw2KdYludJ8JKzUj7AkZuGI1wNcSchJ4PxOlRrt0cIr0St9i%252B1L997F3%252BkT0%252FY566Nu1ffbFIcYOllPrj6Efm%252Bf0bb1sHrAxdoMMVol0Sy5BvxqDNWJ8nL48MxeH6CAdFoecisr%252BXYG9cNeeEAhOEWnAB9JknMtbX2JuCO5BYu5hvEn5EN8SU7WvqzO5sVB23UJ8y%252BXwGHoz0I%252BmHjo7A%253D%253D (124.76.26.90) 1.08ms
+[I 13:54:26.146 NotebookApp] 302 GET /notebooks/content.ipynb (124.76.26.90) 0.58ms
+[I 13:54:28.935 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fcontent.ipynb (124.76.26.90) 1.58ms
+[I 13:54:33.206 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.26.90) 0.86ms
+[I 13:54:33.208 NotebookApp] 302 GET /notebooks/img/download.png (124.76.26.90) 0.58ms
+[I 13:54:33.209 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.26.90) 0.54ms
+[I 13:54:33.348 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:54:50.108 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=7lw2KdYludJ8JKzUj7AkZuGI1wNcSchJ4PxOlRrt0cIr0St9i%2B1L997F3%2BkT0%2FY566Nu1ffbFIcYOllPrj6Efm%2Bf0bb1sHrAxdoMMVol0Sy5BvxqDNWJ8nL48MxeH6CAdFoecisr%2BXYG9cNeeEAhOEWnAB9JknMtbX2JuCO5BYu5hvEn5EN8SU7WvqzO5sVB23UJ8y%2BXwGHoz0I%2BmHjo7A%3D%3D (61.129.6.251) 0.70ms
+[I 13:56:02.766 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 13:56:07.040 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 13:56:12.189 NotebookApp] Adapting to protocol v5.1 for kernel 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b
+[I 13:56:21.550 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 13:56:22.755 NotebookApp] 302 GET /tree/reinforcementLearning/PPT/content.ipynb (124.76.26.90) 0.98ms
+[I 13:56:23.425 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 13:56:28.639 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 13:56:30.802 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 13:56:32.221 NotebookApp] 302 GET /tree/reinforcementLearning/code/content.ipynb (124.76.26.90) 1.03ms
+[I 13:56:32.933 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 13:56:35.637 NotebookApp] Adapting to protocol v5.1 for kernel 425e5deb-b642-4eec-bb71-20bdcb6ac004
+[I 13:56:37.004 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 13:56:37.231 NotebookApp] 302 GET /tree/reinforcementLearning/PPT/content.ipynb (124.76.26.90) 1.17ms
+[I 13:56:37.933 NotebookApp] Adapting to protocol v5.1 for kernel fbeb6f3c-017b-48b2-893c-81285296cd54
+[I 13:56:39.156 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 13:56:40.509 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.26.90) 0.75ms
+[I 13:56:40.510 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.26.90) 0.54ms
+[I 13:56:40.512 NotebookApp] 302 GET /notebooks/img/download.png (124.76.26.90) 0.59ms
+[I 13:56:40.656 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:56:41.545 NotebookApp] 302 GET /tree/gameTheory/content.ipynb (124.76.26.90) 1.08ms
+[I 13:56:42.200 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 13:56:43.542 NotebookApp] 302 GET /tree/gameTheory/reference/content.ipynb (124.76.26.90) 1.36ms
+[I 13:56:44.123 NotebookApp] Adapting to protocol v5.1 for kernel a1195544-1751-427f-b111-2643d3793752
+[I 13:56:46.600 NotebookApp] Adapting to protocol v5.1 for kernel a1195544-1751-427f-b111-2643d3793752
+[I 13:56:58.590 NotebookApp] Adapting to protocol v5.1 for kernel 3a5de36d-a8dd-469d-ba83-775da5daf89d
+[I 13:57:00.624 NotebookApp] Adapting to protocol v5.1 for kernel d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3
+[I 13:57:02.867 NotebookApp] Starting buffering for 0a8eab8c-464b-4e39-a8b2-d91ac65dbb7b:24bf00f68df547a89f0f1c8c76a48b6d
+[I 13:57:05.617 NotebookApp] Starting buffering for 425e5deb-b642-4eec-bb71-20bdcb6ac004:c426710f724440fe9535d9f49e4a97a9
+[I 13:57:06.311 NotebookApp] Starting buffering for fbeb6f3c-017b-48b2-893c-81285296cd54:81ba999ce5b6414b981463e5802685af
+[I 13:57:07.472 NotebookApp] Starting buffering for a1195544-1751-427f-b111-2643d3793752:31db332499f6422f89f86464a20c9bbd
+[I 13:57:08.490 NotebookApp] Starting buffering for 3a5de36d-a8dd-469d-ba83-775da5daf89d:2238636e2da94c868dd4a6ae15831e2a
+[I 13:57:08.867 NotebookApp] Starting buffering for d00ff9b1-5fe6-4a95-b51e-b43f52ea4ed3:6572c1b96ba44f50837cac3ab48d27ff
+[I 13:57:09.470 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:6c54aceaec33489b875e2201adbce07a
+[I 13:57:31.850 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (124.76.26.90) 0.96ms
+[I 13:57:32.627 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 13:57:47.823 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:8de14fe787224a32bde4bf48571f682a
+[I 13:57:49.031 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:62b67258d00b40daa114ec926c0ab0c1
+[I 13:57:55.083 NotebookApp] 302 GET /notebooks/img/download.png (124.76.26.90) 1.38ms
+[I 13:57:55.084 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.26.90) 0.68ms
+[I 13:57:55.085 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.26.90) 0.64ms
+[I 13:57:55.192 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:57:58.021 NotebookApp] 302 GET /tree/wirelessNetwork/content.ipynb (124.76.26.90) 0.99ms
+[I 13:57:58.715 NotebookApp] Adapting to protocol v5.1 for kernel 19130b68-6063-4c49-820f-90ecea68130e
+[I 13:58:00.364 NotebookApp] 302 GET /tree/wirelessNetwork/code/content.ipynb (124.76.26.90) 0.99ms
+[I 13:58:01.000 NotebookApp] Adapting to protocol v5.1 for kernel 8f50187f-a7fe-48b1-b027-f69fd8940b8f
+[I 13:58:04.075 NotebookApp] Adapting to protocol v5.1 for kernel 8f50187f-a7fe-48b1-b027-f69fd8940b8f
+[I 13:58:06.128 NotebookApp] Adapting to protocol v5.1 for kernel 8f50187f-a7fe-48b1-b027-f69fd8940b8f
+[I 13:58:26.945 NotebookApp] Starting buffering for 8f50187f-a7fe-48b1-b027-f69fd8940b8f:d3e01b6823584905a3b9dd6d56a32a28
+[I 13:58:27.893 NotebookApp] Starting buffering for 19130b68-6063-4c49-820f-90ecea68130e:7580d6b9f6844c1eaf71bbcb994f4b18
+[I 13:58:29.361 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:c2e210e2bd1a418e818acb7a698c5d55
+[I 13:59:44.176 NotebookApp] 302 GET /notebooks/content.ipynb (61.129.6.251) 0.68ms
+[I 13:59:45.130 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=0YA9nRsSg4sSx18vUQkPCfEemgfcHJbL1FprM%2FSuNjBm1gAuAaUZqNpPln%2FKZkn17Lvh64Say7kNN%2FVuh1GUltxiH7duou3xB9wK83ngc8719eofXAYMsPeyLUknikiqQu6ItInj4UJ6WexpTXyFA9Vn0OOJu8%2BqDgD6RldT7vp8H2hDz7udFM70MJ6Bcp57BKS2jmE8tQoWoJ2cts4jwQ%3D%3D (101.89.239.238) 0.90ms
+[W 13:59:48.332 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.63ms referer=None
+[I 14:02:07.609 NotebookApp] 302 GET /notebooks/img/download.png (49.52.99.132) 0.70ms
+[I 14:02:07.610 NotebookApp] 302 GET /notebooks/img/upload.png (49.52.99.132) 0.59ms
+[I 14:02:07.611 NotebookApp] 302 GET /notebooks/img/shutdown.png (49.52.99.132) 0.61ms
+[I 14:02:07.728 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:02:10.434 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (49.52.99.132) 1.05ms
+[I 14:02:11.203 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:02:18.573 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:e95e75bc54b2498da84d62da4dc9e1a2
+[I 14:02:23.739 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:38c621051197448799c6245ecf24ea0f
+[W 14:23:32.938 NotebookApp] 404 HEAD http://123.125.114.144/ (124.88.112.32) 2.40ms referer=None
+[I 14:44:14.437 NotebookApp] 302 GET /notebooks/img/download.png (49.52.99.132) 0.90ms
+[I 14:44:14.439 NotebookApp] 302 GET /notebooks/img/shutdown.png (49.52.99.132) 0.86ms
+[I 14:44:14.440 NotebookApp] 302 GET /notebooks/img/upload.png (49.52.99.132) 0.79ms
+[I 14:44:14.536 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:44:15.807 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (49.52.99.132) 1.04ms
+[I 14:44:16.429 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:44:26.767 NotebookApp] Uploading file to /pythonPractice/zs/winequality-red.csv
+[I 14:45:37.591 NotebookApp] Creating new notebook in /pythonPractice/zs
+[I 14:45:38.324 NotebookApp] Kernel started: 39dc2017-b933-4e1d-ac98-a0dd485a80c3
+[I 14:45:38.775 NotebookApp] Adapting to protocol v5.1 for kernel 39dc2017-b933-4e1d-ac98-a0dd485a80c3
+[I 14:47:38.367 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 14:49:38.810 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 14:50:00.509 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 14:50:02.192 NotebookApp] Starting buffering for 39dc2017-b933-4e1d-ac98-a0dd485a80c3:eaf20efe969e42448c2907072e5510d6
+[I 14:50:07.492 NotebookApp] Kernel shutdown: 39dc2017-b933-4e1d-ac98-a0dd485a80c3
+[I 14:50:28.406 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:ea0de64e7d8c48d3be5ded76f5516113
+[I 14:50:29.774 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5d4e03d452764673bdbd5d458f8d9d08
+[I 14:58:39.954 NotebookApp] 302 GET /notebooks/img/download.png (49.52.99.132) 0.85ms
+[I 14:58:39.956 NotebookApp] 302 GET /notebooks/img/upload.png (49.52.99.132) 0.64ms
+[I 14:58:39.957 NotebookApp] 302 GET /notebooks/img/shutdown.png (49.52.99.132) 0.55ms
+[I 14:58:40.056 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:58:50.883 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 14:58:57.670 NotebookApp] 302 GET /notebooks/img/download.png (49.52.99.132) 0.72ms
+[I 14:58:57.671 NotebookApp] 302 GET /notebooks/img/upload.png (49.52.99.132) 0.59ms
+[I 14:58:57.672 NotebookApp] 302 GET /notebooks/img/shutdown.png (49.52.99.132) 0.55ms
+[I 14:58:57.818 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:59:12.437 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (49.52.99.132) 1.03ms
+[I 14:59:13.226 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:59:23.478 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:e285cfa72a0442ce8065454231c3368a
+[I 14:59:27.597 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:d3238dd23e0b42cb83b471c0b9d1ca0d
+[I 14:59:28.268 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:3aae069fb2e1462091a1fe0960927d1b
+[W 15:06:10.979 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.49ms referer=None
+[W 16:37:36.487 NotebookApp] 404 GET http://wujieliulan.com/ (124.88.112.215) 1.70ms referer=None
+[W 16:37:36.494 NotebookApp] 404 GET http://www.minghui.org/ (124.88.112.215) 1.18ms referer=None
+[W 16:37:36.497 NotebookApp] 404 GET http://www.epochtimes.com/ (124.88.112.215) 1.05ms referer=None
+[W 16:37:36.521 NotebookApp] 404 GET http://www.boxun.com/ (124.88.112.215) 1.56ms referer=None
+[W 16:37:36.531 NotebookApp] 404 GET http://www.bing.com/ (124.88.112.215) 1.33ms referer=None
+[W 16:37:36.575 NotebookApp] 404 GET http://www.123cha.com/ (124.88.112.215) 1.48ms referer=None
+[W 16:37:36.607 NotebookApp] 404 GET http://www.baidu.com/ (124.88.112.215) 1.41ms referer=None
+[W 16:37:36.609 NotebookApp] 405 CONNECT www.voanews.com:443 (124.88.112.215) 1.12ms referer=None
+[W 16:37:45.219 NotebookApp] 404 GET http://www.rfa.org/ (124.88.112.215) 1.51ms referer=None
+[W 17:52:44.428 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.36ms referer=None
+[W 21:21:08.144 NotebookApp] 404 GET /addons/vslai_shop/plugin/pcset/resource/css/iconfont.css (42.51.209.64) 1.43ms referer=None
+[W 21:21:08.149 NotebookApp] 404 GET /addons/ewei_shopv2/plugin/diypage/static/css/foxui.diy.css?v=201705261600 (42.51.209.64) 1.08ms referer=None
+[W 21:21:08.169 NotebookApp] 404 GET /static/common_js/send.form.js (42.51.209.64) 1.48ms referer=None
+[W 21:21:08.170 NotebookApp] 404 GET /View/index/js/comm/cheackLogin.js (42.51.209.64) 0.93ms referer=None
+[W 21:21:08.173 NotebookApp] 404 GET /Public/static/common3.0.js (42.51.209.64) 1.02ms referer=None
+[W 21:21:08.177 NotebookApp] 404 GET /my-199/static/css/app.5aceab5c72cb6663c9428954feca6a1a.css (42.51.209.64) 1.06ms referer=None
+[W 21:21:08.181 NotebookApp] 404 GET /js/slide.js?id=20190514195923 (42.51.209.64) 1.61ms referer=None
+[W 21:21:08.183 NotebookApp] 404 GET /static/css/app.583a1a54afc1f56dbec143f906cc6cf0.css (42.51.209.64) 1.24ms referer=None
+[W 21:21:08.184 NotebookApp] 404 GET /pinzhiV2.0/css/global.css (42.51.209.64) 1.14ms referer=None
+[W 21:21:08.187 NotebookApp] 404 GET /static/home/css/main.css (42.51.209.64) 1.90ms referer=None
+[W 21:21:08.188 NotebookApp] 404 GET /css/styles.css (42.51.209.64) 0.97ms referer=None
+[W 21:21:08.190 NotebookApp] 404 GET /static/biyao/css/style.css (42.51.209.64) 1.81ms referer=None
+[W 21:21:08.192 NotebookApp] 404 GET /mall/views/default/css/base.css (42.51.209.64) 1.00ms referer=None
+[W 21:21:08.193 NotebookApp] 404 GET /index_ad.css (42.51.209.64) 1.03ms referer=None
+[W 21:21:08.195 NotebookApp] 404 GET /js/site.min.js?v=201905150921 (42.51.209.64) 1.05ms referer=None
+[W 21:21:08.197 NotebookApp] 404 GET /web/resource/wshcms/css/style.css (42.51.209.64) 1.27ms referer=None
+[W 21:21:08.202 NotebookApp] 404 GET /themes/default/Home/statics/css/index.css (42.51.209.64) 0.99ms referer=None
+[W 21:21:08.203 NotebookApp] 404 GET /css/dist/module.min.css?v=201905081359 (42.51.209.64) 0.97ms referer=None
+[W 21:21:08.205 NotebookApp] 404 GET /static/css/app.5aceab5c72cb6663c9428954feca6a1a.css (42.51.209.64) 1.10ms referer=None
+[W 21:21:08.207 NotebookApp] 404 GET /m/scripts/public.js?v=20180517 (42.51.209.64) 1.10ms referer=None
+[W 21:21:08.208 NotebookApp] 404 GET /css/nav2.css (42.51.209.64) 0.99ms referer=None
+[W 21:21:08.210 NotebookApp] 404 GET /assets/static/index-d53039d0.css (42.51.209.64) 1.03ms referer=None
+[W 21:21:08.211 NotebookApp] 404 GET /css/dtk.css?v=201905091429 (42.51.209.64) 0.93ms referer=None
+[W 21:21:08.213 NotebookApp] 404 GET /public/static/Admin/js/admin.js (42.51.209.64) 1.06ms referer=None
+[W 21:21:08.215 NotebookApp] 404 GET /console/assets/css/bootstrap.min.css (42.51.209.64) 1.38ms referer=None
+[W 21:21:08.225 NotebookApp] 404 GET /template/100/img/dtk.css (42.51.209.64) 1.41ms referer=None
+[W 21:21:08.227 NotebookApp] 404 GET /themes/dorawhite/css/white.css?version=v2.1.1 (42.51.209.64) 1.07ms referer=None
+[W 21:21:08.228 NotebookApp] 404 GET /includes/libraries/javascript/cart.js (42.51.209.64) 1.01ms referer=None
+[W 21:21:08.230 NotebookApp] 404 GET /js/download.js?dsdsdsds (42.51.209.64) 1.21ms referer=None
+[W 21:21:08.232 NotebookApp] 404 GET /static/js/app.37bae614e698cabd7507.js (42.51.209.64) 1.41ms referer=None
+[W 21:21:08.239 NotebookApp] 404 GET /src/css/common/common.css (42.51.209.64) 1.25ms referer=None
+[W 21:21:08.247 NotebookApp] 404 GET /wap/build/css/app-afed1f36c9.css (42.51.209.64) 1.56ms referer=None
+[W 21:21:08.249 NotebookApp] 404 GET /static/mall/js/layer/layer.js (42.51.209.64) 1.19ms referer=None
+[W 21:21:08.250 NotebookApp] 404 GET /Public/Shop/css/default.css (42.51.209.64) 1.02ms referer=None
+[W 21:21:08.252 NotebookApp] 404 GET /ajax/sd.js (42.51.209.64) 1.04ms referer=None
+[W 21:21:08.256 NotebookApp] 404 GET /static/css/app.410aa1644cc3c950f51f4f508cc1c698.css (42.51.209.64) 1.24ms referer=None
+[W 21:21:08.257 NotebookApp] 404 GET /app/app/qipn_side/web/css/side.css?1.2.1 (42.51.209.64) 1.03ms referer=None
+[W 21:21:08.259 NotebookApp] 404 GET /PublicMob/css/dist/preview/preview.css?v=2019051518222226960 (42.51.209.64) 1.09ms referer=None
+[W 21:21:08.260 NotebookApp] 404 GET /assets/Index/css/index.css (42.51.209.64) 0.96ms referer=None
+[W 21:28:25.152 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.51ms referer=None
+[W 21:46:10.854 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.29ms referer=None
+[I 23:18:05.517 NotebookApp] 302 GET / (139.162.83.10) 0.57ms
+[W 01:39:36.991 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.39ms referer=None
+[I 02:41:23.119 NotebookApp] 302 GET / (104.152.52.64) 0.59ms
+[W 02:41:23.563 NotebookApp] 405 OPTIONS / (104.152.52.64) 0.76ms referer=None
+[W 02:41:24.002 NotebookApp] 404 GET /nice%20ports%2C/Tri%6Eity.txt%2ebak (104.152.52.64) 2.07ms referer=None
+[I 02:41:24.515 NotebookApp] Malformed HTTP message from 104.152.52.64: Malformed HTTP request line
+[I 02:41:24.975 NotebookApp] Malformed HTTP message from 104.152.52.64: Malformed HTTP version in HTTP Request-Line: 'RTSP/1.0'
+[W 02:42:23.397 NotebookApp] 404 HEAD http://123.125.114.144/ (124.88.113.8) 2.03ms referer=None
+[I 04:57:46.982 NotebookApp] 302 GET / (66.228.45.154) 0.59ms
+[W 05:33:03.710 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.64ms referer=None
+[I 06:04:19.041 NotebookApp] 302 GET /notebooks/img/upload.png (111.186.116.149) 0.78ms
+[I 06:04:19.042 NotebookApp] 302 GET /notebooks/img/download.png (111.186.116.149) 0.58ms
+[I 06:04:19.043 NotebookApp] 302 GET /notebooks/img/shutdown.png (111.186.116.149) 0.67ms
+[I 06:04:19.162 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 06:04:22.491 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (111.186.116.149) 0.98ms
+[I 06:04:23.200 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 06:04:34.047 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:61a00559636340178e2834ca580a65e5
+[I 06:04:35.191 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:2f43d85750d34de582529594b60245af
+[W 07:32:44.445 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.37ms referer=None
+[W 09:26:36.984 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.68ms referer=None
+[I 10:44:57.739 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=zwS0hIG4Jujc4EkzwNVIj9Qb5KpoY5P5C32ux%2BbZjqksAgjBE8uoUW6gBNqBCMVd%2Fr7l%2F7KRweIP29PlYknIn61D0fBJkLqBUF9QCZxeX3km7yrmgHoRpvB%2F9O10X6%2FAHZ0TwgffLfRc6YE8tb1QQyy3ti47GVMQHZLcdiUP6qSb%2B3z%2BOTW%2Fr9lbYU4JYVa5Am2bGbl4TOtrpQ2dSK9zUQ%3D%3D (124.76.26.90) 0.82ms
+[I 10:45:09.964 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.26.90) 0.88ms
+[I 10:45:09.965 NotebookApp] 302 GET /notebooks/img/download.png (124.76.26.90) 0.71ms
+[I 10:45:09.967 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.26.90) 0.61ms
+[I 10:45:10.096 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 10:45:19.439 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (124.76.26.90) 0.96ms
+[I 10:45:20.413 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 10:45:29.508 NotebookApp] Kernel started: 865cacc9-f4f9-4c12-b5a4-93bc9ef82a47
+[I 10:45:29.978 NotebookApp] Adapting to protocol v5.1 for kernel 865cacc9-f4f9-4c12-b5a4-93bc9ef82a47
+[I 10:45:57.105 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=zwS0hIG4Jujc4EkzwNVIj9Qb5KpoY5P5C32ux%2BbZjqksAgjBE8uoUW6gBNqBCMVd%2Fr7l%2F7KRweIP29PlYknIn61D0fBJkLqBUF9QCZxeX3km7yrmgHoRpvB%2F9O10X6%2FAHZ0TwgffLfRc6YE8tb1QQyy3ti47GVMQHZLcdiUP6qSb%2B3z%2BOTW%2Fr9lbYU4JYVa5Am2bGbl4TOtrpQ2dSK9zUQ%3D%3D (101.91.60.105) 0.75ms
+[I 10:47:29.564 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 10:48:20.754 NotebookApp] Starting buffering for 865cacc9-f4f9-4c12-b5a4-93bc9ef82a47:786be5919be34bc4825ff4ff2aed7125
+[I 10:48:24.377 NotebookApp] Creating new notebook in /pythonPractice/zs
+[I 10:48:25.200 NotebookApp] Kernel started: 0e6237de-c36c-4341-a2a4-242473d1201a
+[I 10:48:25.645 NotebookApp] Adapting to protocol v5.1 for kernel 0e6237de-c36c-4341-a2a4-242473d1201a
+[I 10:50:25.232 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 10:52:25.251 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 10:54:25.251 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 10:56:25.244 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 10:58:25.241 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:00:25.242 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:02:25.226 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:04:25.234 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:06:25.241 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:08:25.237 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:14:25.291 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:16:25.242 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:18:25.235 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:20:25.239 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:24:25.242 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:26:25.377 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:28:25.237 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:28:26.215 NotebookApp] 302 GET / (47.101.192.187) 0.48ms
+[I 11:28:26.248 NotebookApp] 302 GET /tree? (47.101.192.187) 0.67ms
+[I 11:30:25.236 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:32:25.225 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:34:25.240 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:36:25.217 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[W 11:37:29.151 NotebookApp] 404 HEAD http://123.125.114.144/ (106.59.214.173) 3.20ms referer=None
+[I 11:46:25.273 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 11:48:25.216 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 12:38:37.451 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:5c232d4799fb455f850d7c9818154a3a
+[I 12:38:37.452 NotebookApp] Starting buffering for 0e6237de-c36c-4341-a2a4-242473d1201a:e67bd6cd8b79463e87b4ad550e166dd0
+[I 12:38:37.454 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:77c417362b2b49888299f40eae8d1729
+[W 13:20:22.156 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.52ms referer=None
+[I 14:08:35.317 NotebookApp] 302 GET / (47.92.101.189) 0.52ms
+[I 14:08:35.358 NotebookApp] 302 GET /tree? (47.92.101.189) 0.70ms
+[I 14:11:14.028 NotebookApp] 302 GET / (101.132.106.40) 0.53ms
+[I 14:11:14.058 NotebookApp] 302 GET /tree? (101.132.106.40) 0.60ms
+[I 14:31:04.488 NotebookApp] 302 GET /notebooks/img/upload.png (112.65.61.104) 1.15ms
+[I 14:31:04.489 NotebookApp] 302 GET /notebooks/img/download.png (112.65.61.104) 0.68ms
+[I 14:31:04.490 NotebookApp] 302 GET /notebooks/img/shutdown.png (112.65.61.104) 0.60ms
+[I 14:31:05.094 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:31:49.593 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:baca15c2494244cbb0b6e970ee96df5a
+[W 14:31:57.540 NotebookApp] 404 HEAD http://123.125.114.144/ (60.1.125.229) 2.17ms referer=None
+[I 14:32:02.157 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=%2BLMEfGpcipq1tfw56ZrwCmP12H45xBTjUanrdiGm9v6u%2F8nHyZVS2QJu6iwvuV%2BL0y9%2BlNbh5bvo28esA3HOfSvskbUU%2F36jEDIt0S6P7m1Oeh%2BA%2FUoiSQhu%2BR9IGR3lKopt%2Blh9Jn7gESrerrTI7PXQ6NxUT79pgobVrgCPYIcFWbcZ9SNF4WQ2KUMlCTCk (61.129.6.203) 0.78ms
+[I 15:16:02.583 NotebookApp] 302 GET /notebooks/reinforcementlearning/content.ipynb (101.132.131.7) 0.63ms
+[I 15:16:02.585 NotebookApp] 302 GET /notebooks/pythonpractice/zs/untitled.ipynb?kernel_name=python3 (101.132.131.7) 0.50ms
+[I 15:16:02.587 NotebookApp] 302 GET /notebooks/reinforcementlearning/reference/content.ipynb (101.132.131.7) 0.87ms
+[I 15:19:14.043 NotebookApp] 302 GET /tree/reinforcementlearning/code (101.132.144.145) 0.59ms
+[I 15:19:14.046 NotebookApp] 302 GET /tree (101.132.144.145) 0.34ms
+[I 15:21:18.223 NotebookApp] 302 GET /tree/reinforcementlearning/ppt/content.ipynb (47.97.216.82) 0.64ms
+[I 15:21:41.061 NotebookApp] 302 GET /tree/pythonpractice/content.ipynb (47.92.102.179) 0.66ms
+[I 15:21:51.641 NotebookApp] 302 GET / (47.97.192.46) 0.47ms
+[I 15:21:51.672 NotebookApp] 302 GET /tree? (47.97.192.46) 0.63ms
+[I 15:25:31.951 NotebookApp] 302 GET /notebooks/gametheory/ppt/content.ipynb (101.132.177.14) 0.58ms
+[I 15:32:57.587 NotebookApp] 302 GET /notebooks/wirelessnetwork/content.ipynb (47.92.122.11) 0.63ms
+[I 15:32:57.591 NotebookApp] 302 GET /tree/reinforcementlearning/code/content.ipynb (47.92.122.11) 0.48ms
+[I 15:32:57.602 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=0ya9nrssg4ssx18vuqkpcfeemgfchjbl1fprm%2fsunjbm1gauaauzqnppln%2fkzkn17lvh64say7knn%2fvuh1gultxih7duou3xb9wk83ngc8719eofxaymspeyluknikiqqu6itinj4uj6wexptxyfa9vn0ooju8%2bqdgd6rldt7vp8h2hdz7udfm70mj6bcp57bks2jme8tqowoj2cts4jwq%3d%3d (47.92.122.11) 0.57ms
+[I 15:32:57.605 NotebookApp] 302 GET /tree/pythonpractice/zs (47.92.122.11) 0.41ms
+[I 15:35:15.214 NotebookApp] 302 GET /tree/gametheory/reference (47.96.12.13) 0.56ms
+[I 15:38:32.051 NotebookApp] 302 GET /notebooks/content.ipynb (139.224.238.50) 1.27ms
+[I 15:38:32.055 NotebookApp] 302 GET /notebooks/reinforcementlearning/code/content.ipynb (139.224.238.50) 0.55ms
+[I 15:38:32.056 NotebookApp] 302 GET /notebooks/pythonpractice/content.ipynb (139.224.238.50) 0.41ms
+[I 15:43:59.503 NotebookApp] 302 GET /tree/wirelessnetwork/content.ipynb (106.14.115.254) 0.97ms
+[I 15:52:31.229 NotebookApp] 302 GET /tree/wirelessnetwork/code (106.14.217.247) 0.65ms
+[I 15:52:31.230 NotebookApp] 302 GET /notebooks/gametheory/content.ipynb (106.14.217.247) 0.38ms
+[I 15:54:31.409 NotebookApp] 302 GET /notebooks/gametheory/reference/content.ipynb (139.224.116.230) 0.65ms
+[I 15:54:31.412 NotebookApp] 302 GET /notebooks/content.ipynb?nsukey=7lw2kdyludj8jkzuj7akzugi1wncschj4pxolrrt0cir0st9i%2b1l997f3%2bkt0%2fy566nu1ffbficyollprj6efm%2bf0bb1shraxdommvol0sy5bvxqdnwj8nl48mxeh6cadfoecisr%2bxyg9cneeeahoewnab9jknmtbx2juco5byu5hven5en8su7wvqzo5svb23uj8y%2bxwghoz0i%2bmhjo7a%3d%3d (139.224.116.230) 0.78ms
+[I 16:05:01.714 NotebookApp] 302 GET / (101.132.131.7) 0.53ms
+[I 16:05:01.748 NotebookApp] 302 GET /tree? (101.132.131.7) 0.73ms
+[I 16:10:09.106 NotebookApp] 302 GET /tree/reinforcementlearning/reference (47.100.57.133) 0.61ms
+[I 16:26:02.184 NotebookApp] 302 GET /tree/reinforcementlearning/ppt (106.14.168.238) 0.60ms
+[W 17:13:06.534 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.43ms referer=None
+[I 20:18:39.611 NotebookApp] 302 GET / (103.233.10.167) 0.67ms
+[I 20:18:45.122 NotebookApp] 302 GET / (103.233.10.167) 0.55ms
+[W 20:18:45.124 NotebookApp] 404 GET /nmaplowercheck1558037915 (103.233.10.167) 1.21ms referer=None
+[I 20:18:45.183 NotebookApp] 302 GET / (103.233.10.167) 0.45ms
+[W 20:18:45.202 NotebookApp] 404 GET /HNAP1 (103.233.10.167) 1.24ms referer=None
+[W 20:18:45.296 NotebookApp] 403 POST /sdk (103.233.10.167): '_xsrf' argument missing from POST
+[W 20:18:45.298 NotebookApp] 403 POST /sdk (103.233.10.167) 2.72ms referer=None
+[W 21:06:34.777 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.83ms referer=None
+[W 21:26:28.318 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (120.132.3.65) 1.54ms referer=None
+[I 22:00:47.927 NotebookApp] 302 GET / (121.40.130.66) 0.56ms
+[I 22:19:19.145 NotebookApp] 302 GET / (222.187.237.44) 0.62ms
+[I 22:21:21.668 NotebookApp] 302 GET / (222.187.237.44) 0.72ms
+[I 22:21:22.479 NotebookApp] 302 GET / (222.187.237.44) 0.51ms
+[W 22:21:37.086 NotebookApp] 403 POST /sdk (222.187.237.44): '_xsrf' argument missing from POST
+[W 22:21:37.087 NotebookApp] 403 POST /sdk (222.187.237.44) 1.98ms referer=None
+[I 22:33:18.377 NotebookApp] 302 GET / (196.52.43.99) 0.61ms
