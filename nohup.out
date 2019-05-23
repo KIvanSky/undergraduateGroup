@@ -1383,3 +1383,94 @@
 [I 21:11:07.743 NotebookApp] 302 GET / (106.15.76.85) 0.64ms
 [W 22:23:02.056 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.39ms referer=None
 [W 22:55:50.072 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.31ms referer=None
+[W 02:16:42.102 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.41ms referer=None
+[W 04:12:54.521 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.33ms referer=None
+[W 04:34:01.184 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.38ms referer=None
+[W 04:45:19.947 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 2.02ms referer=None
+[W 06:10:23.035 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.49ms referer=None
+[W 09:04:51.633 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.53ms referer=None
+[W 10:04:15.659 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.89ms referer=None
+[I 12:57:52.724 NotebookApp] 302 GET / (92.118.160.61) 0.58ms
+[I 13:20:47.333 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.13.162) 0.69ms
+[I 13:20:47.334 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.13.162) 0.56ms
+[I 13:20:47.335 NotebookApp] 302 GET /notebooks/img/download.png (124.76.13.162) 0.60ms
+[W 13:20:47.403 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190514042357 (124.76.13.162) 2.34ms referer=http://120.79.65.52:8888/notebooks/content.ipynb
+[I 13:20:47.419 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:31:06.178 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (124.76.13.162) 0.96ms
+[I 13:31:08.459 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 13:31:58.727 NotebookApp] Kernel started: c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 13:31:59.318 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 13:44:49.078 NotebookApp] 302 GET / (47.101.187.80) 0.53ms
+[I 13:44:49.113 NotebookApp] 302 GET /tree? (47.101.187.80) 0.72ms
+[I 13:48:00.672 NotebookApp] 302 GET / (47.92.116.44) 0.62ms
+[I 13:48:00.717 NotebookApp] 302 GET /tree? (47.92.116.44) 0.69ms
+[W 13:58:03.258 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.60ms referer=None
+[I 14:51:58.772 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 14:57:16.874 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:4c07c25347194cd2b06a41419d8e58e5
+[I 14:57:16.875 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5d5ac791243240c69b621f6684f70636
+[I 14:57:16.876 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:6747cb4db2254f9e816aa6f396db6cea
+[I 16:58:32.092 NotebookApp] 302 GET / (47.52.210.140) 0.57ms
+[W 17:50:58.980 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.54ms referer=None
+[W 18:51:44.402 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.36ms referer=None
+[W 19:13:08.700 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.29ms referer=None
+[I 21:07:56.261 NotebookApp] 302 GET /tree/pythonpractice/xys (47.92.102.179) 0.59ms
+[I 21:20:21.524 NotebookApp] 302 GET /notebooks/content.ipynb (47.98.62.203) 0.93ms
+[I 21:20:21.527 NotebookApp] 302 GET /tree/reinforcementlearning/reference (47.98.62.203) 2.33ms
+[I 21:20:21.528 NotebookApp] 302 GET /tree (47.98.62.203) 0.48ms
+[I 21:25:02.588 NotebookApp] 302 GET /notebooks/reinforcementlearning/ppt/content.ipynb (101.132.177.14) 0.39ms
+[I 21:25:02.591 NotebookApp] 302 GET /tree/reinforcementlearning/ppt (101.132.177.14) 0.41ms
+[I 21:34:27.126 NotebookApp] 302 GET / (47.92.120.136) 0.45ms
+[I 21:34:27.171 NotebookApp] 302 GET /tree? (47.92.120.136) 0.64ms
+[I 21:36:14.535 NotebookApp] 302 GET /tree/pythonpractice/ly (47.97.120.5) 0.43ms
+[I 21:39:30.189 NotebookApp] 302 GET /tree/pythonpractice/content.ipynb (47.92.99.247) 0.61ms
+[W 21:44:30.573 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.49ms referer=None
+[I 21:50:23.341 NotebookApp] 302 GET / (106.15.76.85) 0.56ms
+[I 21:50:38.310 NotebookApp] 302 GET /notebooks/pythonpractice/content.ipynb (47.98.34.250) 0.61ms
+[I 21:50:38.315 NotebookApp] 302 GET /tree? (47.98.34.250) 0.46ms
+[I 21:59:59.616 NotebookApp] 302 GET /notebooks/reinforcementlearning/reference/content.ipynb (47.97.192.46) 0.79ms
+[I 21:59:59.617 NotebookApp] 302 GET /tree/pythonpractice/ylj (47.97.192.46) 0.46ms
+[I 22:02:12.459 NotebookApp] 302 GET /tree/reinforcementlearning/ppt/content.ipynb (139.224.116.230) 0.61ms
+[I 22:03:36.868 NotebookApp] 302 GET /tree/pythonpractice/zs (101.132.182.68) 0.62ms
+[I 22:09:35.872 NotebookApp] 302 GET /notebooks/reinforcementlearning/content.ipynb (47.92.98.236) 0.61ms
+[I 22:09:35.876 NotebookApp] 302 GET /tree/pythonpractice/qjk (47.92.98.236) 0.41ms
+[W 01:38:05.881 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.32ms referer=None
+[W 02:11:02.992 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.42ms referer=None
+[W 02:44:03.508 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.54ms referer=None
+[W 05:10:26.561 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.39ms referer=None
+[W 05:15:50.630 NotebookApp] 404 GET /wp-content/plugins/ninja-forms-uploads/readme.txt (124.235.138.60) 1.39ms referer=None
+[W 05:22:50.480 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.54ms referer=None
+[W 05:31:45.152 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.33ms referer=None
+[I 08:39:17.230 NotebookApp] 302 GET / (209.17.96.242) 0.54ms
+[W 09:25:23.439 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.43ms referer=None
+[W 13:19:17.761 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.54ms referer=None
+[I 13:54:29.693 NotebookApp] 302 GET /notebooks/img/download.png (124.76.13.162) 0.73ms
+[I 13:54:29.694 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.13.162) 0.58ms
+[I 13:54:29.695 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.13.162) 0.56ms
+[I 13:54:29.793 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:54:32.034 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (124.76.13.162) 0.92ms
+[I 13:54:32.797 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 13:54:38.991 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 13:54:41.992 NotebookApp] Kernel started: 216927cc-0c54-498c-9015-90eba32c0754
+[I 13:54:42.439 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 13:58:36.955 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:2eafa2ef6db249fbbfa737785a7b0bdb
+[I 13:58:49.587 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:73cfdb595bec4d3eb28c4668d99c8ac4
+[I 13:58:55.160 NotebookApp] Creating new notebook in /pythonPractice/zs
+[I 13:58:55.904 NotebookApp] Kernel started: 259a5164-0fa2-40fe-83d7-5a3933b840b5
+[I 13:58:56.361 NotebookApp] Adapting to protocol v5.1 for kernel 259a5164-0fa2-40fe-83d7-5a3933b840b5
+[I 14:00:55.957 NotebookApp] Saving file at /pythonPractice/zs/Scikit-learn.ipynb
+[W 14:04:00.366 NotebookApp] 404 HEAD http://123.125.114.144/ (113.63.111.57) 2.28ms referer=None
+[I 14:05:19.701 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:2c20abbc5d9142548e51d90897690f7f
+[I 14:08:24.205 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (124.76.13.162) 0.95ms
+[I 14:08:25.129 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:08:26.482 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:8a02b49fcd7a4f2982bb97c3b1359406
+[I 14:33:28.806 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 14:34:05.922 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 14:44:55.983 NotebookApp] Saving file at /pythonPractice/zs/Scikit-learn.ipynb
+[I 15:08:25.493 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:e411ac9dabbb4478893d557be80f2f31
+[I 15:08:25.495 NotebookApp] Starting buffering for 259a5164-0fa2-40fe-83d7-5a3933b840b5:926e1d5010464aeb802aae4e829578ed
+[I 15:08:25.495 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:2d210360ff3645f8980d586738943fb0
+[W 15:28:49.707 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.51ms referer=None
+[I 16:58:23.163 NotebookApp] 302 GET / (120.55.13.109) 0.53ms
+[W 17:12:16.366 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.26ms referer=None
+[W 21:05:43.574 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.41ms referer=None
+[I 21:16:09.419 NotebookApp] 302 GET / (47.97.21.76) 0.68ms
