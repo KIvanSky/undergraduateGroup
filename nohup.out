@@ -1474,3 +1474,417 @@
 [W 17:12:16.366 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.26ms referer=None
 [W 21:05:43.574 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.41ms referer=None
 [I 21:16:09.419 NotebookApp] 302 GET / (47.97.21.76) 0.68ms
+[I 00:58:26.055 NotebookApp] 302 GET /notebooks/img/upload.png (49.52.97.191) 0.72ms
+[I 00:58:26.056 NotebookApp] 302 GET /notebooks/img/download.png (49.52.97.191) 0.66ms
+[I 00:58:26.058 NotebookApp] 302 GET /notebooks/img/shutdown.png (49.52.97.191) 0.62ms
+[I 00:58:26.156 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[W 00:59:17.309 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.36ms referer=None
+[I 01:06:10.157 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (49.52.97.191) 0.90ms
+[I 01:06:11.082 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 01:06:14.715 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:07a5980c4a8f4bcd9d4554abca140837
+[I 01:16:10.259 NotebookApp] 302 GET /notebooks/img/upload.png (49.52.97.191) 0.72ms
+[I 01:16:10.261 NotebookApp] 302 GET /notebooks/img/download.png (49.52.97.191) 0.64ms
+[I 01:16:10.262 NotebookApp] 302 GET /notebooks/img/shutdown.png (49.52.97.191) 0.66ms
+[I 01:16:10.363 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[W 01:19:05.951 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[E 01:19:10.365 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(4a2df653-af3d-4f0e-8fe0-0b978c9303f9)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 01:19:10.953 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[I 01:19:10.954 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 01:19:10.955 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[W 01:19:11.054 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[E 01:19:11.083 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(ff63efc2-c932-49bc-8b56-ae08814744e0)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 01:19:16.056 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[I 01:19:16.057 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 01:19:16.058 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[W 01:19:42.229 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[I 01:19:47.231 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[I 01:19:47.232 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 01:19:47.233 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[W 01:19:48.554 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[I 01:19:53.555 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[I 01:19:53.556 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 01:19:53.557 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[I 01:21:30.302 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:799cf4cf86b04a61914fe26aeb53659f
+[I 01:21:31.863 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:805332d461a042b88ca547bd2583d18d
+[I 01:21:35.500 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 01:23:35.439 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:25:35.503 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:27:35.428 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:28:25.496 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 01:29:36.456 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:30:25.575 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 01:34:26.546 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 01:35:36.440 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:37:35.460 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[W 01:39:20.034 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.59ms referer=None
+[I 01:39:35.465 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:41:35.525 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:49:35.620 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:51:35.630 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 01:57:35.534 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 02:00:32.288 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:d3d86964a6364748856575e5331db707
+[I 02:00:32.294 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:d3200fd4cebb44398fd3544ddc659ccd
+[I 02:39:55.742 NotebookApp] 302 GET /notebooks/content.ipynb (180.163.220.68) 0.78ms
+[W 04:52:57.104 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.36ms referer=None
+[I 05:29:38.184 NotebookApp] 302 GET /notebooks/img/upload.png (202.120.121.51) 0.82ms
+[I 05:29:38.186 NotebookApp] 302 GET /notebooks/img/download.png (202.120.121.51) 0.61ms
+[I 05:29:38.186 NotebookApp] 302 GET /notebooks/img/shutdown.png (202.120.121.51) 0.59ms
+[I 05:29:38.294 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 05:29:39.536 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (202.120.121.51) 0.95ms
+[I 05:29:40.263 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 05:29:43.911 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:dd0dcb2ba5064f7b86c87c6688361d12
+[I 05:29:45.540 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:57ce0d1a30874811a5c07877656c9bdc
+[I 05:29:52.372 NotebookApp] Creating new notebook in /pythonPractice/zs
+[I 05:29:52.995 NotebookApp] Kernel started: f14c3a2d-d49e-4e4d-9e74-f704e99eb7e9
+[I 05:29:53.461 NotebookApp] Adapting to protocol v5.1 for kernel f14c3a2d-d49e-4e4d-9e74-f704e99eb7e9
+[I 05:31:53.034 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 05:45:53.097 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 05:47:49.986 NotebookApp] Kernel interrupted: f14c3a2d-d49e-4e4d-9e74-f704e99eb7e9
+[I 05:48:46.040 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 06:06:56.873 NotebookApp] Starting buffering for f14c3a2d-d49e-4e4d-9e74-f704e99eb7e9:50332350f4ff40189ed7ffb411467f9b
+[I 06:07:23.102 NotebookApp] Adapting to protocol v5.1 for kernel 3a5de36d-a8dd-469d-ba83-775da5daf89d
+[I 06:07:25.422 NotebookApp] Starting buffering for 3a5de36d-a8dd-469d-ba83-775da5daf89d:29e5457bce3d421cae0594c19ebfcf11
+[I 06:07:38.521 NotebookApp] Adapting to protocol v5.1 for kernel 8faa7c99-903f-431e-af6e-2eaeda11b84f
+[I 06:07:41.362 NotebookApp] Starting buffering for 8faa7c99-903f-431e-af6e-2eaeda11b84f:81e8f3e72c8646a09673bff4a8035755
+[I 06:08:34.923 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 06:09:21.156 NotebookApp] Kernel shutdown: f14c3a2d-d49e-4e4d-9e74-f704e99eb7e9
+[W 06:09:35.954 NotebookApp] delete /pythonPractice/zs/Untitled.ipynb
+[W 06:09:35.954 NotebookApp] Skipping trash for /undergraduateGroup/pythonPractice/zs/Untitled.ipynb, on different device to home directory
+[I 06:10:36.611 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 06:12:36.598 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 06:14:03.501 NotebookApp] Creating new notebook in /pythonPractice/zs
+[I 06:14:04.271 NotebookApp] Kernel started: e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 06:14:04.805 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 06:14:37.011 NotebookApp] Saving file at /pythonPractice/zs/numpy & pandas.ipynb
+[I 06:16:04.325 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 06:20:04.323 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 07:14:54.117 NotebookApp] 302 GET / (139.162.83.10) 0.53ms
+[I 07:16:36.673 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:1c572a552c63452186c07b5dd590e392
+[I 07:16:36.674 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:076bf764513b4be894227ccbfe18be76
+[W 08:46:33.705 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.42ms referer=None
+[I 11:13:45.931 NotebookApp] 302 GET /notebooks/img/upload.png (202.120.121.67) 1.12ms
+[I 11:13:45.932 NotebookApp] 302 GET /notebooks/img/download.png (202.120.121.67) 0.89ms
+[I 11:13:45.933 NotebookApp] 302 GET /notebooks/img/shutdown.png (202.120.121.67) 0.89ms
+[I 11:13:46.018 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 11:14:50.269 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (202.120.121.67) 1.07ms
+[I 11:14:51.076 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 11:14:58.967 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 11:40:58.982 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 11:42:58.949 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[W 11:47:28.909 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.41ms referer=None
+[I 12:20:58.947 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 12:23:44.593 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:4b966043be0b488a87e78df6f341b891
+[I 12:23:45.536 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:c2d96b384bd948c0ad425481de1f3c77
+[I 12:24:58.908 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[W 12:40:24.870 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.39ms referer=None
+[I 12:46:58.955 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:00:58.947 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:02:58.952 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:15:40.826 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 13:17:40.781 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:23:40.823 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:27:40.773 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:37:26.139 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:1a2a85d78d2b4c2c8b821b1a009d46ca
+[I 13:52:10.842 NotebookApp] 302 GET /notebooks/img/download.png (202.120.121.67) 1.05ms
+[I 13:52:10.845 NotebookApp] 302 GET /notebooks/img/upload.png (202.120.121.67) 0.54ms
+[I 13:52:10.846 NotebookApp] 302 GET /notebooks/img/shutdown.png (202.120.121.67) 0.56ms
+[I 13:52:11.001 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:52:23.295 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (202.120.121.67) 1.08ms
+[I 13:52:24.099 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 13:52:29.355 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 13:52:32.552 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:65c610332a534c2589078874c077dfe3
+[I 13:56:29.363 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 13:58:29.409 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:02:29.315 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[W 14:03:52.620 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:03:57.622 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:03:57.623 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:03:57.624 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[W 14:03:57.720 NotebookApp] Replacing stale connection: e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[E 14:03:59.357 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(e6eca52d-9a39-498d-af26-53f0ed5718cb)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 14:04:02.722 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 14:04:02.723 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 14:04:02.724 NotebookApp] Restoring connection for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 14:04:29.340 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:10:29.337 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:14:08.213 NotebookApp] Kernel interrupted: e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 14:14:29.299 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:18:28.576 NotebookApp] 302 GET / (121.40.130.66) 0.53ms
+[I 14:18:29.291 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:18:50.956 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (49.52.98.64) 0.93ms
+[I 14:18:51.824 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:20:29.300 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[W 14:21:08.917 NotebookApp] Replacing stale connection: e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 14:21:13.918 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 14:21:13.919 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 14:21:13.920 NotebookApp] Restoring connection for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[W 14:21:14.097 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 14:21:19.098 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 14:21:19.099 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:21:19.101 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[W 14:21:19.324 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:21:24.326 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:21:24.327 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:21:24.328 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[W 14:21:57.832 NotebookApp] Replacing stale connection: e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 14:22:02.834 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 14:22:02.836 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 14:22:02.837 NotebookApp] Restoring connection for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[W 14:22:02.950 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 14:22:07.951 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 14:22:07.952 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 14:22:07.953 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[W 14:22:08.132 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:22:13.133 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:22:13.135 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 14:22:13.136 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 14:22:29.319 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:32:29.339 NotebookApp] Saving file at /pythonPractice/zs/Untitled.ipynb
+[I 14:52:29.332 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[I 15:10:29.313 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[I 15:14:29.303 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[I 15:20:39.933 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 15:20:41.697 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:76b364efdf864411a362b4a23ddef066
+[I 15:26:39.900 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 15:28:39.943 NotebookApp] Saving file at /pythonPractice/zs/wineAnalysis.ipynb
+[I 15:30:42.384 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[W 15:31:06.580 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[E 15:31:07.955 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(ff63efc2-c932-49bc-8b56-ae08814744e0)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 15:31:11.581 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 15:31:11.582 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 15:31:11.583 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[W 15:31:11.699 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[E 15:31:13.137 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(4a2df653-af3d-4f0e-8fe0-0b978c9303f9)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 15:31:16.700 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 15:31:16.701 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 15:31:16.701 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[W 15:31:16.837 NotebookApp] Replacing stale connection: 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 15:31:21.839 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 15:31:21.839 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 15:31:21.840 NotebookApp] Restoring connection for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[W 15:31:21.959 NotebookApp] Replacing stale connection: c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[I 15:31:26.961 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[I 15:31:26.962 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 15:31:26.963 NotebookApp] Restoring connection for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[W 15:35:55.106 NotebookApp] Replacing stale connection: c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[E 15:35:56.963 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(c1074f5a-60d4-4c1e-b7c0-73f9db7c1957)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 15:36:00.108 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[I 15:36:00.109 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 15:36:00.109 NotebookApp] Restoring connection for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[W 15:36:00.244 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 15:36:05.245 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 15:36:05.246 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 15:36:05.247 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[W 15:36:05.347 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 15:36:10.348 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 15:36:10.349 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 15:36:10.350 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[W 15:36:10.485 NotebookApp] Replacing stale connection: 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 15:36:15.487 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 15:36:15.488 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 15:36:15.489 NotebookApp] Restoring connection for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[W 15:36:24.073 NotebookApp] Replacing stale connection: c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[I 15:36:29.074 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[I 15:36:29.075 NotebookApp] Adapting to protocol v5.1 for kernel c1074f5a-60d4-4c1e-b7c0-73f9db7c1957
+[I 15:36:29.076 NotebookApp] Restoring connection for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[W 15:36:29.174 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 15:36:34.176 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[I 15:36:34.177 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 15:36:34.178 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[W 15:36:34.351 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[E 15:36:35.248 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(ff63efc2-c932-49bc-8b56-ae08814744e0)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 15:36:39.353 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 15:36:39.353 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 15:36:39.354 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[W 15:36:39.502 NotebookApp] Replacing stale connection: 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 15:36:44.504 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 15:36:44.505 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 15:36:44.506 NotebookApp] Restoring connection for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 16:09:00.011 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:5a5b2dd289b44dc9a23733a45ec86864
+[I 16:09:00.015 NotebookApp] Starting buffering for c1074f5a-60d4-4c1e-b7c0-73f9db7c1957:551b0813020e498a883ca4bc6ace37c7
+[I 16:09:00.016 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:6ce0abc40ba14aa0883a43e76bd17716
+[I 16:09:00.017 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:1d506192f86e4c3987a6391eca532775
+[W 16:33:24.585 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.35ms referer=None
+[W 16:56:03.765 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.49ms referer=None
+[W 17:22:27.767 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (120.132.3.65) 1.48ms referer=None
+[W 20:26:47.216 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.28ms referer=None
+[W 21:52:39.021 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.23ms referer=None
+[W 00:20:19.932 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.49ms referer=None
+[I 03:42:51.113 NotebookApp] 302 GET /notebooks/img/download.png (202.120.121.67) 0.96ms
+[I 03:42:51.113 NotebookApp] 302 GET /notebooks/img/upload.png (202.120.121.67) 0.58ms
+[I 03:42:51.114 NotebookApp] 302 GET /notebooks/img/shutdown.png (202.120.121.67) 0.57ms
+[I 03:42:51.213 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 03:50:39.869 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (202.120.121.67) 0.90ms
+[I 03:50:40.768 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 03:50:46.326 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 03:52:39.019 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:6d9f61de391946eb83147c9125c5ce78
+[I 03:52:41.112 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:f3dd21ab9b924a318892a0761fc7adb4
+[I 04:02:03.326 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[W 04:07:38.824 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.72ms referer=None
+[W 04:13:45.589 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.33ms referer=None
+[I 05:38:03.327 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[I 05:40:03.280 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[I 05:42:03.282 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[I 05:44:03.283 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[W 05:52:03.328 NotebookApp] WebSocket ping timeout after 119872 ms.
+[W 05:52:16.327 NotebookApp] WebSocket ping timeout after 119867 ms.
+[I 05:52:21.329 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:94d5d2b7f988463baba2822d654c6914
+[I 05:55:17.920 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 05:55:18.960 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 05:58:38.678 NotebookApp] Adapting to protocol v5.1 for kernel 259a5164-0fa2-40fe-83d7-5a3933b840b5
+[I 05:58:40.593 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:94d5d2b7f988463baba2822d654c6914
+[I 05:58:41.585 NotebookApp] Starting buffering for 259a5164-0fa2-40fe-83d7-5a3933b840b5:182f77ddb918408c87d2fc9de79e1800
+[W 08:06:28.984 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.43ms referer=None
+[W 08:07:14.970 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.54ms referer=None
+[I 09:30:44.688 NotebookApp] 302 GET /notebooks/img/upload.png (202.120.121.67) 0.64ms
+[I 09:30:44.689 NotebookApp] 302 GET /notebooks/img/download.png (202.120.121.67) 0.57ms
+[I 09:30:44.691 NotebookApp] 302 GET /notebooks/img/shutdown.png (202.120.121.67) 0.59ms
+[I 09:30:44.813 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 09:30:47.435 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (202.120.121.67) 1.44ms
+[I 09:30:48.231 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 09:31:27.895 NotebookApp] Adapting to protocol v5.1 for kernel 216927cc-0c54-498c-9015-90eba32c0754
+[I 09:31:38.071 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:d64964abaa1d46f283986a4503f7147b
+[I 10:46:35.432 NotebookApp] Starting buffering for 216927cc-0c54-498c-9015-90eba32c0754:30f04a0f018b432686b7a27cac219250
+[W 12:00:57.325 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.58ms referer=None
+[W 12:48:17.875 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[E 12:48:18.233 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(ff63efc2-c932-49bc-8b56-ae08814744e0)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 12:48:22.877 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[I 12:48:22.878 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 12:48:22.879 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[W 12:58:22.708 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[E 12:58:22.879 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(ff63efc2-c932-49bc-8b56-ae08814744e0)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 12:58:27.709 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[I 12:58:27.710 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 12:58:27.711 NotebookApp] Restoring connection for ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[I 13:26:25.483 NotebookApp] 302 GET /notebooks/img/upload.png (202.120.121.67) 0.81ms
+[I 13:26:25.484 NotebookApp] 302 GET /notebooks/img/download.png (202.120.121.67) 0.55ms
+[I 13:26:25.485 NotebookApp] 302 GET /notebooks/img/shutdown.png (202.120.121.67) 0.56ms
+[I 13:26:25.602 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:26:28.232 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (202.120.121.67) 1.12ms
+[I 13:26:29.032 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 13:26:37.100 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 13:28:37.026 NotebookApp] Saving file at /pythonPractice/zs/python.ipynb
+[W 13:37:22.725 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:a85f9bc671bc4076851c89ab6e744138
+[E 13:37:27.711 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(ff63efc2-c932-49bc-8b56-ae08814744e0)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 13:37:27.728 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[W 13:37:27.830 NotebookApp] Replacing stale connection: 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:092f9cc57420465290fd7d0a001f5032
+[I 13:37:32.831 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:092f9cc57420465290fd7d0a001f5032
+[I 13:37:32.833 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 13:37:32.834 NotebookApp] Restoring connection for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:092f9cc57420465290fd7d0a001f5032
+[W 13:37:33.009 NotebookApp] Replacing stale connection: e6eca52d-9a39-498d-af26-53f0ed5718cb:5d93fc58b9cc435ebdc6fe4051aa7792
+[E 13:37:37.102 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(e6eca52d-9a39-498d-af26-53f0ed5718cb)>
+    Traceback (most recent call last):
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 1229, in _run
+        return self.callback()
+      File "/root/miniconda3/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/miniconda3/lib/python3.7/site-packages/tornado/websocket.py", line 366, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 13:37:38.011 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:5d93fc58b9cc435ebdc6fe4051aa7792
+[I 13:37:38.012 NotebookApp] Adapting to protocol v5.1 for kernel e6eca52d-9a39-498d-af26-53f0ed5718cb
+[I 13:37:38.012 NotebookApp] Restoring connection for e6eca52d-9a39-498d-af26-53f0ed5718cb:5d93fc58b9cc435ebdc6fe4051aa7792
+[W 13:37:38.127 NotebookApp] Replacing stale connection: ff63efc2-c932-49bc-8b56-ae08814744e0:ebc57356d7b043f5ab52752d5f8c7d41
+[I 13:37:43.131 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[W 13:38:57.732 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:39:02.835 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 13:39:07.836 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:092f9cc57420465290fd7d0a001f5032
+[W 13:39:08.014 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 13:39:13.015 NotebookApp] Starting buffering for e6eca52d-9a39-498d-af26-53f0ed5718cb:5d93fc58b9cc435ebdc6fe4051aa7792
+[W 13:39:13.135 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 13:39:18.135 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:ebc57356d7b043f5ab52752d5f8c7d41
+[W 15:54:13.451 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.63ms referer=None
+[I 16:27:31.848 NotebookApp] 302 GET /notebooks/img/upload.png (124.76.13.162) 0.84ms
+[I 16:27:31.854 NotebookApp] 302 GET /notebooks/img/download.png (124.76.13.162) 0.75ms
+[I 16:27:31.874 NotebookApp] 302 GET /notebooks/img/shutdown.png (124.76.13.162) 0.87ms
+[I 16:27:31.940 NotebookApp] Adapting to protocol v5.1 for kernel 4a2df653-af3d-4f0e-8fe0-0b978c9303f9
+[I 16:27:33.058 NotebookApp] 302 GET /tree/pythonPractice/content.ipynb (124.76.13.162) 1.08ms
+[I 16:27:33.800 NotebookApp] Adapting to protocol v5.1 for kernel ff63efc2-c932-49bc-8b56-ae08814744e0
+[I 16:27:41.348 NotebookApp] Starting buffering for ff63efc2-c932-49bc-8b56-ae08814744e0:c4579701b56b4cafa264d97574f46687
+[I 16:27:42.131 NotebookApp] Starting buffering for 4a2df653-af3d-4f0e-8fe0-0b978c9303f9:24e1ef0f30d043f6aa8b908b7cdca8ff
+[W 18:14:14.408 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.44ms referer=None
+[W 18:56:23.926 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.39ms referer=None
+[W 19:47:25.172 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.49ms referer=None
+[I 20:47:28.112 NotebookApp] 302 GET / (209.17.96.242) 0.45ms
+[I 22:41:03.225 NotebookApp] 302 GET / (172.105.238.87) 0.59ms
+[W 23:40:57.902 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.39ms referer=None
