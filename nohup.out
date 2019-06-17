@@ -2682,3 +2682,86 @@
 [I 21:01:21.971 NotebookApp] Malformed HTTP message from 109.234.153.134: Malformed HTTP request line
 [W 21:01:27.122 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.134) 1.59ms referer=None
 [I 22:57:56.573 NotebookApp] 302 GET / (46.101.104.11) 0.52ms
+[W 00:31:57.523 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.84ms referer=None
+[W 03:00:09.152 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156056760963959&a=PC&i=2018459956&p=8888 (109.234.153.131): '_xsrf' argument missing from POST
+[W 03:00:09.153 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156056760963959&a=PC&i=2018459956&p=8888 (109.234.153.131) 1.99ms referer=https://best-proxies.ru/
+[I 03:00:09.154 NotebookApp] Malformed HTTP message from 109.234.153.131: Malformed HTTP request line
+[W 03:00:14.735 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.133) 1.63ms referer=None
+[W 04:19:37.463 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.54ms referer=None
+[W 04:24:56.270 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.92ms referer=None
+[W 06:11:47.236 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.39ms referer=None
+[I 06:25:02.398 NotebookApp] 302 GET / (104.140.188.18) 0.68ms
+[W 08:17:44.847 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.60ms referer=None
+[W 09:00:19.131 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156058921871169PC201845995608888 (109.234.153.133): '_xsrf' argument missing from POST
+[W 09:00:19.132 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156058921871169PC201845995608888 (109.234.153.133) 1.82ms referer=https://best-proxies.ru/
+[I 09:00:19.133 NotebookApp] Malformed HTTP message from 109.234.153.133: Malformed HTTP request line
+[W 09:00:24.655 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.130) 1.51ms referer=None
+[W 09:06:01.869 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.38ms referer=None
+[W 09:20:40.180 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=156059044031&a=PSCN&i=2018459956&p=8888 (95.213.177.123): '_xsrf' argument missing from POST
+[W 09:20:40.181 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=156059044031&a=PSCN&i=2018459956&p=8888 (95.213.177.123) 1.97ms referer=http://best-proxies.ru/
+[I 09:20:40.181 NotebookApp] Malformed HTTP message from 95.213.177.123: Malformed HTTP request line
+[W 10:53:41.415 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.41ms referer=None
+[W 12:10:44.271 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.43ms referer=None
+[I 14:22:49.530 NotebookApp] 302 GET / (103.27.109.198) 0.45ms
+[I 14:22:49.551 NotebookApp] 302 GET /tree? (103.27.109.198) 0.60ms
+[W 15:00:30.051 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156061082913729PC201845995608888 (109.234.153.133): '_xsrf' argument missing from POST
+[W 15:00:30.053 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156061082913729PC201845995608888 (109.234.153.133) 2.72ms referer=https://best-proxies.ru/
+[I 15:00:30.053 NotebookApp] Malformed HTTP message from 109.234.153.133: Malformed HTTP request line
+[W 15:00:34.700 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.132) 1.55ms referer=None
+[W 16:03:12.896 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.42ms referer=None
+[W 16:12:41.783 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.33ms referer=None
+[I 18:57:13.591 NotebookApp] 302 GET / (121.40.130.66) 0.55ms
+[W 19:55:39.035 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.34ms referer=None
+[W 21:01:48.599 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156063250817774PC201845995608888 (95.213.187.186): '_xsrf' argument missing from POST
+[W 21:01:48.601 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156063250817774PC201845995608888 (95.213.187.186) 1.91ms referer=https://best-proxies.ru/
+[I 21:01:48.601 NotebookApp] Malformed HTTP message from 95.213.187.186: Malformed HTTP request line
+[W 21:01:53.693 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.187) 1.64ms referer=None
+[W 23:48:25.454 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.36ms referer=None
+[W 02:11:15.843 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.07ms referer=None
+[W 02:12:02.769 NotebookApp] 404 HEAD http://112.124.42.80:63435/ (60.191.52.254) 1.25ms referer=None
+[W 02:56:34.262 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.45ms referer=None
+[W 03:00:53.496 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156065405325315PC201845995608888 (95.213.187.186): '_xsrf' argument missing from POST
+[W 03:00:53.497 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156065405325315PC201845995608888 (95.213.187.186) 2.01ms referer=https://best-proxies.ru/
+[I 03:00:53.497 NotebookApp] Malformed HTTP message from 95.213.187.186: Malformed HTTP request line
+[W 03:00:58.810 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.190) 1.46ms referer=None
+[W 03:10:39.993 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 2.05ms referer=None
+[I 03:25:54.078 NotebookApp] 302 GET / (34.220.83.36) 0.62ms
+[W 03:41:21.340 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.45ms referer=None
+[I 04:12:21.538 NotebookApp] 302 GET / (198.108.66.112) 0.55ms
+[I 04:12:21.778 NotebookApp] 302 GET /tree? (198.108.66.112) 0.64ms
+[W 07:23:03.872 NotebookApp] 404 GET http://www.123cha.com/ (119.39.47.215) 1.56ms referer=None
+[W 07:23:03.899 NotebookApp] 404 GET http://www.baidu.com/ (119.39.47.215) 1.38ms referer=None
+[W 07:23:09.551 NotebookApp] 404 GET http://www.epochtimes.com/ (119.39.47.215) 1.45ms referer=None
+[W 07:23:09.580 NotebookApp] 404 GET http://www.boxun.com/ (119.39.47.215) 1.69ms referer=None
+[W 07:23:09.598 NotebookApp] 404 GET http://www.bing.com/ (119.39.47.215) 1.27ms referer=None
+[W 07:23:14.898 NotebookApp] 404 GET http://www.rfa.org/ (119.39.47.215) 1.36ms referer=None
+[W 07:23:14.946 NotebookApp] 404 GET http://wujieliulan.com/ (119.39.47.215) 1.40ms referer=None
+[W 07:23:14.961 NotebookApp] 404 GET http://www.minghui.org/ (119.39.47.215) 1.30ms referer=None
+[W 07:23:15.233 NotebookApp] 405 CONNECT www.voanews.com:443 (119.39.47.215) 1.71ms referer=None
+[W 07:34:06.561 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.32ms referer=None
+[I 08:38:46.587 NotebookApp] 302 GET / (104.206.128.50) 0.66ms
+[W 09:00:33.298 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156067563365923PC201845995608888 (95.213.187.190): '_xsrf' argument missing from POST
+[W 09:00:33.299 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156067563365923PC201845995608888 (95.213.187.190) 1.93ms referer=https://best-proxies.ru/
+[I 09:00:33.300 NotebookApp] Malformed HTTP message from 95.213.187.190: Malformed HTTP request line
+[W 09:00:38.452 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.186) 1.53ms referer=None
+[W 11:27:03.411 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.41ms referer=None
+[W 11:40:10.293 NotebookApp] 405 CONNECT www.baidu.com:443 (59.36.132.222) 2.74ms referer=None
+[W 11:40:10.322 NotebookApp] 404 GET http://www.baidu.com/ (59.36.132.222) 1.34ms referer=None
+[W 12:10:28.249 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.47ms referer=None
+[W 13:01:58.062 NotebookApp] 405 CONNECT www.baidu.com:443 (59.36.132.222) 3.24ms referer=None
+[W 13:01:58.089 NotebookApp] 404 GET http://www.baidu.com/ (59.36.132.222) 1.28ms referer=None
+[W 13:39:48.578 NotebookApp] 405 CONNECT www.baidu.com:443 (59.36.132.222) 2.54ms referer=None
+[W 13:39:48.609 NotebookApp] 404 GET http://www.baidu.com/ (59.36.132.222) 1.41ms referer=None
+[I 14:28:43.656 NotebookApp] 302 GET / (139.162.83.10) 0.53ms
+[W 15:00:52.067 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156069725173800PC201845995608888 (95.213.187.190): '_xsrf' argument missing from POST
+[W 15:00:52.068 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156069725173800PC201845995608888 (95.213.187.190) 1.74ms referer=https://best-proxies.ru/
+[I 15:00:52.068 NotebookApp] Malformed HTTP message from 95.213.187.190: Malformed HTTP request line
+[W 15:00:58.051 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.189) 1.51ms referer=None
+[W 15:19:41.917 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.26ms referer=None
+[W 19:11:53.855 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.40ms referer=None
+[W 21:01:46.664 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156071890661279PC201845995608888 (5.178.86.74): '_xsrf' argument missing from POST
+[W 21:01:46.666 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?s=156071890661279PC201845995608888 (5.178.86.74) 2.91ms referer=https://best-proxies.ru/
+[I 21:01:46.667 NotebookApp] Malformed HTTP message from 5.178.86.74: Malformed HTTP request line
+[W 21:01:51.897 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.74) 1.49ms referer=None
+[W 22:11:26.925 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.86ms referer=None
+[W 23:04:32.895 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.90ms referer=None
